@@ -1,0 +1,2 @@
+I have a small law firm.  We have several solicitors, and I want to assign them to the cases as efficiently as possible.  Some solicitors will be more experienced in certain areas than others.  We are planning for a month.  We have to pay the employees fixed salaries but the clients pay based on the payrate of the solicitor.
+Clients prefer solicitors with experience.

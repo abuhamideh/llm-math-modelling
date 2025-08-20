@@ -1,0 +1,4 @@
+We want to solve a travelling salesman problem. 
+There is a set of cities, each with coordinates on a 2D plane. 
+The goal is to find a tour that visits every city exactly once and returns to the starting city. 
+The cost of travelling between two cities is the Euclidean distance between their coordinates.

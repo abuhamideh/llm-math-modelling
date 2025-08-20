@@ -1,0 +1,43 @@
+# Input data
+*   **Solicitor details:**
+    *   Name of the solicitor.
+    *   List of legal areas in which the solicitor has experience.
+    *   List of legal areas in which the solicitor is licensed.
+    *   Payrate for the solicitor per day.
+*   **Case details:**
+    *   Unique ID for the case.
+    *   Client name for the case.
+    *   Duration of the case in days.
+    *   Legal area of the case.
+*   **Total working days available per solicitor:** The maximum number of days a solicitor can work in the planning month (e.g., 20 days).
+
+# Solution
+An assignment of each case to a single solicitor.
+
+# Constraints
+*   Each case must be assigned to exactly one solicitor.
+*   A solicitor must be licensed in the legal area of any case assigned to them.
+*   The total duration of cases assigned to any solicitor must not exceed their total available working days for the month.
+
+# Objective function
+Maximise the total revenue generated from assigned cases, where revenue for a case is its duration multiplied by the assigned solicitor's payrate.
+
+# Instance file format
+Excel workbook with two sheets.
+*   **Sheet1 (Solicitors):**
+    *   Header row: `Solicitor,Experience,Licenced,Payrate`
+    *   Each subsequent row contains details for one solicitor.
+    *   Column 1 (`Solicitor`): Solicitor's name (text).
+    *   Column 2 (`Experience`): A comma-separated string listing legal areas in which the solicitor has experience (text).
+    *   Column 3 (`Licenced`): A comma-separated string listing legal areas in which the solicitor is licensed (text).
+    *   Column 4 (`Payrate`): Solicitor's daily payrate (number).
+*   **Sheet2 (Cases):**
+    *   Header row: `Case ID,Client,Duration,Area`
+    *   Each subsequent row contains details for one case.
+    *   Column 1 (`Case ID`): Unique identifier for the case (integer).
+    *   Column 2 (`Client`): Client's name (text).
+    *   Column 3 (`Duration`): Case duration as an integer number of days, followed by " days" (e.g., "3 days"). The numeric part should be extracted.
+    *   Column 4 (`Area`): Legal area of the case (text).
+
+# Solution file format
+Text file. One space-separated line per case: its Case ID followed by the name of the assigned solicitor. Use 1-based indexing.
