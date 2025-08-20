@@ -1,8 +1,0 @@
-A factory produces two types of chairs: standard and deluxe.  
-Each standard chair requires 3 hours of carpentry and 2 hours of painting.  
-Each deluxe chair requires 4 hours of carpentry and 5 hours of painting.  
-
-The factory has 60 hours of carpentry time and 40 hours of painting time available per week.  
-The profit is $50 for each standard chair and $80 for each deluxe chair.  
-
-Determine how many chairs of each type the factory should produce to maximize profit.

@@ -1,5 +1,0 @@
-Number of sandwich types: 2
-Total eggs: 40
-Total bacon: 70
-Regular sandwich: 2 3 3
-Special sandwich: 3 5 4

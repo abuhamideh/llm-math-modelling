@@ -1,5 +1,0 @@
-A breakfast shop makes several sandwich types.
-Each consumes certain quantities of two common resources: eggs and bacon.
-There is a given profit per sandwich.
-The shop has fixed total availability of each resource for the planning period.
-Decide how many of each sandwich to produce to maximise total profit.
