@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:725702281d2aae4ccb9316a708409507060893ce85ea48d30e98d3fcba497106
-size 265
+{
+    "VitaminCShots": 30,
+    "VitaminDShots": 40,
+    "VitaminCPills": 50,
+    "VitaminDPills": 30,
+    "MaxBatchesShots": 10,
+    "AvailableVitaminC": 1200,
+    "AvailableVitaminD": 1500,
+    "SupplyShots": 10,
+    "SupplyPills": 7,
+    "MinBatchDifference": 1
+}

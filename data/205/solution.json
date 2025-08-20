@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bb5ec1b4920c83cdc7a9a0de37cada8dfa4b4074c3b61b29f5a6276cde22e206
-size 204
+{
+    "variables": {
+        "WashingMachinesInspected": 0.0,
+        "FreezersInspected": 0.0,
+        "WashingMachinesRepaired": -0.0,
+        "FreezersRepaired": 160.0
+    },
+    "objective": 60000.0
+}

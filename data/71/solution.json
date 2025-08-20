@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d3802b1dcafd9cb593f3e293e2351334c2ad015da11e43b66111573a0de7a90
-size 153
+{
+    "variables": {
+        "ManualMachines": 6.0,
+        "MotionActivatedMachines": 11.0,
+        "TotalMachines": 17.0
+    },
+    "objective": 17.0
+}

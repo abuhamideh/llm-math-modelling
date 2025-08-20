@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c6c3fcc611fdd46e63d2be8f9a139af40252f87aeb68c8a35e416adcfda880a
-size 116
+{
+    "variables": {
+        "TripsNewCompany": 2.0,
+        "TripsOldCompany": 13.0
+    },
+    "objective": 580.0
+}

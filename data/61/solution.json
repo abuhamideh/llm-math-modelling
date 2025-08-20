@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89f9475a359be34a09ff763c09e530af1edb89a59d6f648134bda5a9259566d3
-size 114
+{
+    "variables": {
+        "NumTopLoading": -0.0,
+        "NumFrontLoading": 67.0
+    },
+    "objective": 67.0
+}

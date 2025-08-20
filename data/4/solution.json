@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7a1f7637fa64606c154e0bbe6ad3ce6aa0412e2509de91aa56c0eab4f53bc06b
-size 121
+{
+    "variables": {
+        "NumberLongCables": 22.0,
+        "NumberShortCables": 111.0
+    },
+    "objective": 819.0
+}

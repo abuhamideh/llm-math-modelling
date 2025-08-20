@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:72bf10b7228deba5fb18b3e94e1e5acc71a07639fa025b0c325ebc2ea2676522
-size 113
+{
+    "variables": {
+        "LightSandwiches": 0.0,
+        "HeavySandwiches": 0.0
+    },
+    "objective": 0.0
+}

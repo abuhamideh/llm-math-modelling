@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ad2b041b41a06c5cda6f43ecb743542b6c4520cf0e2d50700a0321c9c92d3881
-size 101
+{
+    "variables": {
+        "MilkBars": -0.0,
+        "DarkBars": -0.0
+    },
+    "objective": 0.0
+}

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a9eeb06b47236e8c9dafe6ef70161db74f97ef5c8f6b5dbb27062cc6e57a977c
-size 230
+{
+    "PriceFullWeighted": 2800,
+    "PriceSemiWeighted": 2400,
+    "TotalChipsAvailable": 3500,
+    "ChipsPerFullWeighted": 20,
+    "ChipsPerSemiWeighted": 15,
+    "TotalProductionHours": 6,
+    "ProductionTimePerKeyboard": 1.2
+}

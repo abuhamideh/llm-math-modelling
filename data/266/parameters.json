@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d4bd38697cde19ece11748ff42e631c81b5c9db7f85e6e097125d75369bbfec3
-size 197
+{
+    "FiberSpinach": 100,
+    "IronSpinach": 5,
+    "CaloriesSpinach": 30,
+    "FiberSoybeans": 80,
+    "IronSoybeans": 12,
+    "CaloriesSoybeans": 100,
+    "MinFiber": 12000,
+    "MinIron": 300
+}

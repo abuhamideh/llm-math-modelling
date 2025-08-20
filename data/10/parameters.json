@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c721e76f38e379fdf133d8ecccc8e0dd1a37f945ed0723eb58145d4ce3952c47
-size 331
+{
+    "NumItems": 3,
+    "NumPackages": 2,
+    "Available": [
+        10,
+        20,
+        80
+    ],
+    "Required": [
+        [
+            6,
+            5
+        ],
+        [
+            0,
+            6
+        ],
+        [
+            30,
+            20
+        ]
+    ],
+    "PackageProfit": [
+        6,
+        7
+    ]
+}

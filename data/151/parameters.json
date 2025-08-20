@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0ddec30ba01be4858e52ed0b3d5f997c5159ddf221454b60b9b71e9f18285528
-size 218
+{
+    "NewCompanyCapacity": 50,
+    "OldCompanyCapacity": 70,
+    "NewCompanyDiesel": 30,
+    "OldCompanyDiesel": 40,
+    "MinimumGifts": 1000,
+    "MaxTripsNewCompany": 15,
+    "MinimumOldCompanyTripPercentage": 0.4
+}

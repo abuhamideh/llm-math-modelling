@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:125a9c6666a895c3a8cbb9c1e1cd2a6da43a8d92766c8ea1cb617daee4cafb51
-size 213
+{
+    "NumFactoryTypes": 2,
+    "ProductionRate": [
+        50,
+        35
+    ],
+    "OperatorRequirement": [
+        3,
+        2
+    ],
+    "TotalProductionRequirement": 250,
+    "TotalAvailableOperators": 16
+}

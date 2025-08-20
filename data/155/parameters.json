@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7e83383b1542b7cde0395d1b55b877337c9b8a0c7af16c9fa7eb07bad82259f
-size 171
+{
+    "BikeCapacity": 8,
+    "BikeCharge": 3,
+    "ScooterCapacity": 5,
+    "ScooterCharge": 2,
+    "MaxBikeFraction": 0.3,
+    "MinScooters": 20,
+    "TotalCharge": 200
+}

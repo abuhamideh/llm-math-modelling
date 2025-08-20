@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c9c9c056afba732f3846c28e8eac28240b6589b86e8b68e86ed39e7e829e81ec
-size 325
+{
+    "NumFarms": 2,
+    "NumBerries": 3,
+    "OperatingCost": [
+        300,
+        200
+    ],
+    "HarvestDelivery": [
+        [
+            2,
+            2,
+            4
+        ],
+        [
+            4,
+            1,
+            2
+        ]
+    ],
+    "RequiredQuantity": [
+        10,
+        9,
+        15
+    ]
+}

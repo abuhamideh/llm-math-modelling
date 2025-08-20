@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cffbf1596a99d2a7a4ea4c67525c9ff11e345ffada8f13028b00f355f33e0319
-size 246
+{
+    "variables": {
+        "NumberAdsZTube": -0.0,
+        "NumberAdsSoorchle": -0.0,
+        "NumberAdsWassa": -0.0,
+        "xZ": 1e+30,
+        "xS": 1e+30,
+        "xW": 9.999985000007499e+29
+    },
+    "objective": 4.0799999550000226e+35
+}

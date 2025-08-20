@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9cb8126d4658de3c7db58f8bb2790da8683fe40072c77584bcceb270ceca10aa
-size 119
+{
+    "variables": {
+        "NumSmallKegsUsed": 17.0,
+        "NumLargeKegsUsed": 8.0
+    },
+    "objective": 1480.0
+}

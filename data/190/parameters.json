@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:52a21e8a3409278c161c4668394416a29b88ca85707c4033f8a8d89362469ce3
-size 286
+{
+    "NumProducts": 2,
+    "NumMachines": 2,
+    "ProfitPerBatch": [
+        150,
+        300
+    ],
+    "TimeRequired": [
+        [
+            4,
+            2
+        ],
+        [
+            2.5,
+            3.5
+        ]
+    ],
+    "MaxHours": [
+        4000,
+        4000
+    ]
+}

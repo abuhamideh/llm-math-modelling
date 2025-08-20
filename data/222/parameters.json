@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cb26cf315ff335042392c114b3f9ea74fec243b873741966054e5969f9e30391
-size 395
+{
+    "PosterBoardsPerCircularTable": 4,
+    "ParticipantsPerCircularTable": 5,
+    "GuestsPerCircularTable": 8,
+    "SpacePerCircularTable": 15,
+    "PosterBoardsPerRectangularTable": 4,
+    "ParticipantsPerRectangularTable": 4,
+    "GuestsPerRectangularTable": 12,
+    "SpacePerRectangularTable": 20,
+    "MinimumParticipants": 500,
+    "MinimumPosterBoards": 300,
+    "AvailableSpace": 1900
+}

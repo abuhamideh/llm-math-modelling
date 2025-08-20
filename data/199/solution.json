@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6059986e6c8b3deebfc3fa0b2b3493b135eb2419d1d1d4a1d19ca8e673a9c93f
-size 112
+{
+    "variables": {
+        "NumRegularBags": 0.0,
+        "NumPremiumBags": 2.0
+    },
+    "objective": 70.0
+}

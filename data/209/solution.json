@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e50b31d48ca71ba993ad80e723c3af04ae2a01358ba11b67506a156b2dde786
-size 135
+{
+    "variables": {
+        "QuantityMathWorkbooks": 140.0,
+        "QuantityEnglishWorkbooks": 170.0
+    },
+    "objective": 4990.0
+}

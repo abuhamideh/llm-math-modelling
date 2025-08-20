@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ef05be14a17f11c6395b8106f2c428ace362ef50683df34e7bc52207d4df35f3
-size 434
+A large fishing boat sends fish back to shore either by small canoes or smaller diesel boats. A canoe can carry back 10 fish while a small diesel boat can carry back 15 fish. In order to follow environmental rules, the number of small canoes used has to be at least 3 times as many as the number of diesel boats uses. If  at least 1000 fish need to be transported to shore, minimize the total number of canoes and diesel boats needed.

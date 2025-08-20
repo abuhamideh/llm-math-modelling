@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a0658ea6fe738c4b8aa0aa5ac1175d0e072c6990858f7e2eddc0107e2150ee58
-size 116
+{
+    "variables": {
+        "NumCashMachines": 10.0,
+        "NumCardMachines": 10.0
+    },
+    "objective": 20.0
+}

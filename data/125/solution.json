@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b022a631ab6efe2f2adfab6ca544e8b9ca44b76d18925ba98dbb4aaf013bfc5
-size 146
+{
+    "variables": {
+        "SulfateUnits": 266.0,
+        "GingerUnits": 134.0,
+        "SulfateAddedFirst": 1.0
+    },
+    "objective": 233.5
+}

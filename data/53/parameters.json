@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fb79f3f99b7705e4ee1fd584d91248b8f95f0ad2803dfebaf981507981039192
-size 158
+{
+    "ProductionCounterTop": 80,
+    "ProductionFridge": 150,
+    "HeatCounterTop": 50,
+    "HeatFridge": 70,
+    "MaxHeat": 500,
+    "MinProduction": 1000
+}

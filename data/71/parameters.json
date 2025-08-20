@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e2b6fd03eff13d3679846c824c351ebfb9447721b48f94bdfc91f2af10c51607
-size 265
+{
+    "MotionActivatedDropRate": 50,
+    "MotionActivatedEnergyConsumption": 30,
+    "ManualDropRate": 75,
+    "ManualEnergyConsumption": 20,
+    "MaxManualPercentage": 0.4,
+    "MinMotionActivatedMachines": 3,
+    "MinTotalDrops": 1000,
+    "MaxTotalEnergy": 500
+}

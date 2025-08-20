@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fee25b748e4d1feffe10a37889681f78006adf11c7e81c31f489351c77464d68
-size 146
+{
+    "variables": {
+        "ProcessUsage": {
+            "0": 5.0,
+            "1": 16.666666666666668
+        }
+    },
+    "objective": 375.0
+}

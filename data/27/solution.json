@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:67aae9fffefa883a2358a39fafeebb0dd1c46131eefd708b6056275c7e9a0cb2
-size 170
+{
+    "variables": {
+        "QuantityMango": -0.0,
+        "QuantityGuava": -0.0,
+        "MangosSold": 150.0,
+        "GuavasSold": 50.0
+    },
+    "objective": 650.0
+}

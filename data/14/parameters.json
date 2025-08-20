@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:df14fadd6d88e9d0c851ce3f77e48312160dc72788358dba1c89d48a81babf75
-size 312
+{
+    "AvailablePaint": 100,
+    "AvailableGlitter": 50,
+    "AvailableGlue": 70,
+    "PaintPerLarge": 4,
+    "GlitterPerLarge": 3,
+    "GluePerLarge": 5,
+    "PaintPerSmall": 2,
+    "GlitterPerSmall": 1,
+    "GluePerSmall": 2,
+    "ProfitLarge": 30,
+    "ProfitSmall": 15,
+    "MinLarge": 5,
+    "MinSmall": 5
+}

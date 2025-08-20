@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aeab4bfba15fd631e871c721948522444cea6426eeb242a630b6469e1b966206
-size 123
+{
+    "variables": {
+        "NumberCamelCaravans": -0.0,
+        "NumberDesertTrucks": 10.0
+    },
+    "objective": 50.0
+}

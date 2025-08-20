@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21b5ef6345198d1079d148a998ecb09b436ba22122f0168e39f5a47500b8c467
-size 279
+{
+    "MinCalcium": 15,
+    "MinVitaminMix": 20,
+    "MinProtein": 20,
+    "PriceRegular": 20,
+    "PricePremium": 35,
+    "CalciumRegular": 4,
+    "CalciumPremium": 12,
+    "VitaminMixRegular": 7,
+    "VitaminMixPremium": 10,
+    "ProteinRegular": 10,
+    "ProteinPremium": 16
+}

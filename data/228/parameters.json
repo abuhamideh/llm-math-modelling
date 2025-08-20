@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a7db06d15f259a0e957ab9c74f318d5809aa6c1752ce50ec285a381d7f5f2cfb
-size 257
+{
+    "DoughLarge": 12,
+    "DoughMedium": 8,
+    "ToppingsLarge": 5,
+    "ToppingsMedium": 4,
+    "BakingTimeLarge": 12,
+    "BakingTimeMedium": 8,
+    "MinDough": 10000,
+    "MinToppings": 4400,
+    "MinMediumPizzas": 200,
+    "MinRatioLargeToMedium": 2
+}

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7d0f540234a736c60f94382b88d0578a33b0dafc4e297a9e2d707ed69bea048b
-size 185
+{
+    "variables": {
+        "NumberPlushToys": 190.0,
+        "NumberDolls": 65.0,
+        "NumberPlushToysSold": 190.0,
+        "NumberDollsSold": 65.0
+    },
+    "objective": 890.0
+}

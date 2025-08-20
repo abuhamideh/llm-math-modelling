@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf2782d8a549a67d9370600125290db4827908eca242ce2505bafb91f2b88802
-size 123
+{
+    "variables": {
+        "SeasonalVolunteers": 14.0,
+        "FullTimeVolunteers": 34.0
+    },
+    "objective": 342.0
+}

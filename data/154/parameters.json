@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:54d17cb6ce9ca9c2e9913cb188bd93d239c36c40489fa8e6c944a8818ef84b1a
-size 240
+{
+    "UnloadPersonsSmall": 1,
+    "CapacitySmall": 20,
+    "UnloadPersonsLarge": 3,
+    "CapacityLarge": 50,
+    "RatioSmallToLargeContainers": 3,
+    "MinSmallContainers": 5,
+    "MinLargeContainers": 3,
+    "TotalPersonsAvailable": 100
+}

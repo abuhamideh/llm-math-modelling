@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34e93c1f7b1a5fec4dcb5e593d6e81439e774c4fcb271224bea384b649ad4c78
-size 116
+{
+    "variables": {
+        "NumberOfBikes": 26.0,
+        "NumberOfScooters": 61.0
+    },
+    "objective": 513.0
+}

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e47fc0c10b5cd9592038509bc63929d9b33d5104a326e784d54d673a0c0afe2e
-size 249
+{
+    "TotalMRNAAvailable": 20000,
+    "MRNAPerChildVaccine": 50,
+    "MRNAPerAdultVaccine": 75,
+    "FeverSuppressantPerChildVaccine": 50,
+    "FeverSuppressantPerAdultVaccine": 75,
+    "MinPercentageAdultVaccines": 70,
+    "MinChildVaccines": 50
+}

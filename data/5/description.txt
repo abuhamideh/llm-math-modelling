@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f2fd4173e13dd8b854d0ebf32246b3af7a6929ce7f726e733fdaa0133ec8bd7e
-size 406
+A store employs senior citizens who earn $500 per week and young adults who earn $750 per week. The store must keep the weekly wage bill below $30000. On any day, the store requires at least 50 workers, of whom at least 10 must be young adults. To ensure the store runs smoothly, the number of young adults should be at least a third the number of senior citizens. Formulate a LP to minimize the wage bill.

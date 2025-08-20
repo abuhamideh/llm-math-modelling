@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:826aa827caaa15f54d1245756f43767489c4f1153ad23eb24e9e5c0349084d8e
-size 119
+{
+    "variables": {
+        "SingleStampMachines": 5.0,
+        "DualStampMachines": 3.0
+    },
+    "objective": 8.0
+}

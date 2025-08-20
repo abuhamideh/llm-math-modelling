@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9601b38ebff866765679a0d55f2d4d9da54396c229e21b1793ed2a2f0a27fe07
-size 161
+{
+    "variables": {
+        "Allocation": {
+            "0": 20000.0,
+            "1": 80000.0,
+            "2": 0.0
+        }
+    },
+    "objective": 42000.0
+}

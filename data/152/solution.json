@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:78d21776cfc0ec8e9f506913f670d4e2e0a0b8d87af79fc7c972c9daac69281f
-size 102
+{
+    "variables": {
+        "BusTrips": 9.0,
+        "CarTrips": 20.0
+    },
+    "objective": 570.0
+}

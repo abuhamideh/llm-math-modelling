@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c90cac77053ca3ba6638071dfc69973583500ba375cdc41af5bb091a2c0d242
-size 532
+An airport buys two types of vehicles, a 4-wheeler and 3-wheeler, to help move luggage. A 4-wheeler vehicle can move 60 luggage per day and produces 30 units of pollutant per day. A 3-wheeler vehicle can move 40 luggage per day and produces 15 units of pollutant per day. The airport needs to be able to move at least 1000 luggage per day. To avoid over-polluting the airport, they can produce at most 430 units of pollutant per day. How many of each vehicle should the airport buy to minimize the total number of vehicles needed.  

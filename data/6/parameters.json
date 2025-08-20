@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7fcdf19943d550c5ba46ebc4e936589ad650a8200dbe0a0bc713b686dbd9df27
-size 289
+{
+    "CostZTube": 1000,
+    "ViewersZTube": 400000,
+    "CostSoorchle": 200,
+    "ViewersSoorchle": 5000,
+    "CostWassa": 100,
+    "ViewersWassa": 3000,
+    "MaxAdsSoorchle": 15,
+    "MaxFractionWassaAds": 0.333333,
+    "MinFractionZTubeAds": 0.05,
+    "WeeklyAdvertisingBudget": 10000
+}

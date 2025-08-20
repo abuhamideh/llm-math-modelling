@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b15e95aefbf7fa6426ee775ec74e9a5d681293de854165ff950bcba820bca318
-size 268
+{
+    "NumFoodTypes": 2,
+    "CaloriePerBowl": [
+        300,
+        200
+    ],
+    "ProteinPerBowl": [
+        15,
+        8
+    ],
+    "SodiumPerBowl": [
+        80,
+        20
+    ],
+    "MaxMealProportionEggs": 0.4,
+    "MinCalories": 2000,
+    "MinProtein": 90
+}

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a4128fc92a3b542c69968d39d43bbd5fd9bdea1bbde957cdc593741f2ef4e56e
-size 213
+{
+    "MeatPerWrap": 5,
+    "RicePerWrap": 3,
+    "MeatPerPlatter": 7,
+    "RicePerPlatter": 5,
+    "TimePerWrap": 10,
+    "TimePerPlatter": 8,
+    "MinMeat": 3000,
+    "MinRice": 2500,
+    "WrapPlatterRatio": 3
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2d35d8ca4cfb82efe6b07bcd55c22268ddfe1d56cb03245cb8baece3a20094b9
-size 127
+{
+    "TimePerPill": 10,
+    "TimePerShot": 20,
+    "ShotToPillRatio": 3,
+    "MinPills": 30,
+    "TotalOperatingTime": 10000
+}

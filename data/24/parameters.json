@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a12e7d051bb8bbc18f2c2d7502a904c21f89922948628d77f44c62942c10cbb1
-size 265
+{
+    "NumFertilizers": 2,
+    "CostFertilizer": [
+        2,
+        3
+    ],
+    "NitrousOxidePerFertilizer": [
+        1.5,
+        5
+    ],
+    "VitaminMixPerFertilizer": [
+        3,
+        1
+    ],
+    "RequiredNitrousOxide": 5,
+    "RequiredVitaminMix": 8
+}

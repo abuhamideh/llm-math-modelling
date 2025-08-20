@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:63420507ce139b83dc255f5277c9674cb522b665d67ecb44c9dbb7e272fa5d19
-size 141
+{
+    "variables": {
+        "NumJars": {
+            "0": 0.0,
+            "1": 26.666666666666668
+        }
+    },
+    "objective": 240.0
+}

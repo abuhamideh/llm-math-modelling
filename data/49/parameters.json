@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7eae7b264bb4c98e471d6f619d8b3b0a4890beb01b755427ba5db252b510d1d1
-size 209
+{
+    "MangoJuicePerMangoTea": 4,
+    "LycheeJuicePerLycheeTea": 6,
+    "TeaPerMangoTea": 8,
+    "TeaPerLycheeTea": 6,
+    "TotalMangoJuice": 2000,
+    "TotalLycheeJuice": 3000,
+    "MinLycheePercentage": 40
+}

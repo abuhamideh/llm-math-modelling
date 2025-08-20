@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c41456da9e05e2f06fa3eeb75c04f78d004fb1eb68ded22f702948346eb049b8
-size 186
+{
+    "CostRice": 3,
+    "CostKebab": 2,
+    "CaloriesRice": 300,
+    "CaloriesKebab": 200,
+    "ProteinRice": 4.5,
+    "ProteinKebab": 4,
+    "MinCalories": 2200,
+    "MinProtein": 30
+}

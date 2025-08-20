@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c9a02ef0e8e643a8e8fc01a6c28c995d8fbe746662e5db39d0fc7ff069ac5d31
-size 563
+A small chocolate shop makes milk chocolate and dark chocolate bars. Milk chocolate bars require 4 units of cocoa and 7 units of milk. Dark chocolate bars require 6 units of cocoa and 3 units of milk. The shop has 2000 units of cocoa and 1750 units of milk available. In addition since milk chocolate sells better, at least 2 times as many milk chocolate bars need to be made as dark chocolate bars.  If making a milk chocolate bar takes 15 minutes and making a dark chocolate bar takes 12 mins, how many of each should the make to minimize total production time?

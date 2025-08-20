@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:02078105366aa65bef23e10272faec32a18f112ad79f31dc09491f7ad0ded620
-size 411
+An international shipping company uses large and small ships to transport containers around the world. A large ship can carry 500 containers while a small ship can carry 200 containers. Because most ports are small, the number of large ships cannot exceed the number of small ships. If the company is under contract needs to transport at least 3000 containers, find the minimum number of ships that can be used.

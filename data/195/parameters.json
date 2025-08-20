@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d62669ea2f9441ceb2693a2b2635f5cb48e53e9efcac968c865310fe6897b61b
-size 215
+{
+    "CostNoodles": 5,
+    "CostProteinBars": 2.5,
+    "CaloriesNoodles": 600,
+    "CaloriesProteinBars": 250,
+    "ProteinNoodles": 1.5,
+    "ProteinProteinBars": 5,
+    "MinCalories": 2000,
+    "MinProtein": 16
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e7db13f330213603c4bfd5837eaf28ae2409caa9594ef1fe50e6a2d446212dd5
-size 133
+{
+    "variables": {
+        "NumberOfChocolateCrepes": 1.0,
+        "NumberOfPeanutButterCrepes": 2.0
+    },
+    "objective": 20.0
+}

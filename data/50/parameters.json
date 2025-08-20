@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc1f4f6361e16a6521e91106e5de3eca8d57fc7bd6ff2d88ee0aef149753527c
-size 165
+{
+    "HoursSeasonal": 6,
+    "PaymentSeasonal": 120,
+    "HoursPermanent": 10,
+    "PaymentPermanent": 250,
+    "RequiredLaborHours": 300,
+    "TotalBudget": 6500
+}

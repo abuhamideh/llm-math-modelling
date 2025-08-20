@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:afe8c0698e5c78118b5a73755a3960908479466b78a946f10e0c8023a30aa434
-size 187
+{
+    "PackagesDeliveredRegular": 500,
+    "PackagesDeliveredHybrid": 300,
+    "PollutantsRegular": 200,
+    "PollutantsHybrid": 100,
+    "MaxPollutants": 7000,
+    "MinPackages": 20000
+}

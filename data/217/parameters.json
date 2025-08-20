@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6781753980a8976d71cbf9ca317a0e7ca26f61b58750b4fb070dc86d6b8acc5c
-size 133
+{
+    "WaterSubsoil": 10,
+    "WaterTopsoil": 6,
+    "MaxTotalBags": 150,
+    "MinTopsoilBags": 10,
+    "MaxTopsoilProportion": 0.3
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:71e3b0e7ccd8ce4df595966292ba406ca9f47c0aeeeec29a9107cad470793bf3
-size 168
+{
+    "VintageBottleCapacity": 500,
+    "RegularBottleCapacity": 750,
+    "TotalAvailableVine": 100000,
+    "RegularToVintageMinRatio": 4,
+    "MinVintageBottles": 10
+}

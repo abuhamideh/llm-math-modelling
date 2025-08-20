@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c99a74b2ef3aaf9742beeebfd53e84c7b56fa14fcacc635c46f6d520c665e30a
-size 201
+{
+    "SmallKegCapacity": 40,
+    "LargeKegCapacity": 100,
+    "MaxSmallKegsAvailable": 30,
+    "MaxLargeKegsAvailable": 10,
+    "SmallKegMultiplier": 2,
+    "MaxTotalKegs": 25,
+    "MinLargeKegs": 5
+}

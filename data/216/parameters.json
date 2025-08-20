@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0a1feae7ecf7d950f014b16ba24268e838abc2a4bd5cd1347f821b0bfb06b24
-size 213
+{
+    "CartTransportRate": 5,
+    "CartWorkersRequired": 2,
+    "TrolleyTransportRate": 7,
+    "TrolleyWorkersRequired": 4,
+    "MinTrolleys": 12,
+    "MaxTrolleyTransportPercentage": 40,
+    "DeliveryRate": 100
+}

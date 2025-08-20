@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7d3b59b540f47bd303fc30544a6d679b4164cd3a7c8add1fef5dc09eda8d53c5
-size 261
+{
+    "DoseRateBeam1BenignPancreas": 0.3,
+    "DoseRateBeam1BenignSkin": 0.2,
+    "DoseRateBeam1Tumor": 0.6,
+    "DoseRateBeam2BenignPancreas": 0.2,
+    "DoseRateBeam2BenignSkin": 0.1,
+    "DoseRateBeam2Tumor": 0.4,
+    "MaxDoseSkin": 4,
+    "MinDoseTumor": 3
+}

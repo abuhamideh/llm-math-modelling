@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8553a1f6230110ae11af1641a774711ef9bafbdde6232136e29862c921d65cac
-size 227
+{
+    "UnitsMagnesiumPerGummy": 3,
+    "UnitsZincPerGummy": 4,
+    "UnitsMagnesiumPerPill": 2,
+    "UnitsZincPerPill": 5,
+    "MinimumNumberOfPills": 10,
+    "MinimumGummiesToPillsRatio": 3,
+    "MaximumUnitsOfMagnesium": 200
+}

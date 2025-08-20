@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1c1a528638127ad05f2d6326dfefabb7ed57b75038d429a24f5e679b7be119cd
-size 295
+{
+    "NumExperiments": 2,
+    "RedUsage": [
+        3,
+        5
+    ],
+    "BlueUsage": [
+        4,
+        3
+    ],
+    "GreenGasProduction": [
+        5,
+        6
+    ],
+    "SmellyGasProduction": [
+        1,
+        2
+    ],
+    "TotalRed": 80,
+    "TotalBlue": 70,
+    "MaxSmelly": 10
+}

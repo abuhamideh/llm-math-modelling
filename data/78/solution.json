@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a360bba546b83c0a1da4885075b4f45484cfbd22cc698facbf41b674d7f52f80
-size 114
+{
+    "variables": {
+        "PlasticBottles": 274.0,
+        "GlassBottles": 89.0
+    },
+    "objective": 363.0
+}

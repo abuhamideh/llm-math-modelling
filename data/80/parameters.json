@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:666cf077b0b9fc6097d61a4cdd6677e4c825e4cb54c72adad9899adb54187015
-size 187
+{
+    "FullTimeHoursPerShift": 8,
+    "PartTimeHoursPerShift": 4,
+    "FullTimePayPerShift": 300,
+    "PartTimePayPerShift": 100,
+    "LaborHoursRequired": 500,
+    "TotalBudget": 15000
+}

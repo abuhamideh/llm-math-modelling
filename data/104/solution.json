@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:055a85333830792a8c92a2488c6350d1ff1b1f212cf6feac16a6bee5e512750a
-size 153
+{
+    "variables": {
+        "AppleServings": 16.666666666666668,
+        "CarrotServings": 5.555555555555556
+    },
+    "objective": 55.55555555555556
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e81081e2380be83234c303fc40615d1a70f9dd0a69dadba8693debc991c2875
-size 132
+{
+    "variables": {
+        "NumberRegularHandbags": -0.0,
+        "NumberPremiumHandbags": 475.0
+    },
+    "objective": 85500.0
+}

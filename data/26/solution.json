@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bf88c8efd8c7a44627764a7bd82fc117b3c3d689b7a5ab2e0d5165416b7641c6
-size 143
+{
+    "variables": {
+        "xOilType": [
+            0.0,
+            36.51111111111111
+        ]
+    },
+    "objective": 547.6666666666667
+}

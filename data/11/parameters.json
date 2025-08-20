@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dfb919fd530c2e7dba12cc6159659561f4dd442c126dfb888e35866fd393c8a3
-size 213
+{
+    "MixerMaximumHours": 3000,
+    "OvenMaximumHours": 3000,
+    "BreadMixerTime": 1,
+    "BreadOvenTime": 3,
+    "CookiesMixerTime": 0.5,
+    "CookiesOvenTime": 1,
+    "BreadProfit": 5,
+    "CookiesProfit": 3
+}

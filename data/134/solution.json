@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:42c926665b4845d8d2059537da679bde31d1df62ff83138c7af60c5cd41a2af8
-size 214
+{
+    "variables": {
+        "ChlorineAmount": 200.0,
+        "WaterSoftenerAmount": 400.0,
+        "ChlorineUnits": 500.0,
+        "WaterSoftenerUnits": -0.0,
+        "TotalTime": 0.0
+    },
+    "objective": 0.0
+}

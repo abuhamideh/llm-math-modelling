@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c5ab96fb401e4fb765d3638163d1f4919f1471dd55ebed836c2de69079782296
-size 507
+A shipping company can purchase regular and hybrid vans to make deliveries. A regular van can deliver 500 packages per day and produces 200 units of pollutants. A hybrid van can deliver 300 packages per day and produces 100 units of pollutants. Due to a new environmental law, they can produce at most 7000 units of pollutants per day. However, the company needs to be able to deliver at least 20000 packages per day. How many of each type of van should they buy to minimize the total number of vans needed?

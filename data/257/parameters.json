@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21cb362b0d71462cfe40ff522747303ce4dd968ce18fca8bcfa98da8a292d2df
-size 275
+{
+    "NumProducts": 2,
+    "MaterialRequirement": [
+        5,
+        3
+    ],
+    "TimeRequirement": [
+        1,
+        2
+    ],
+    "TotalMaterialsAvailable": 1500,
+    "TotalLaborHoursAvailable": 750,
+    "MinBasketballToFootballRatio": 3,
+    "MinimumFootballs": 50
+}

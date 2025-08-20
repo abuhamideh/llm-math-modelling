@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:730f0a56e0dbfa48a0fab493f660f60979d2dfb0a7b7ea76ef9e04e3917bf3be
-size 607
+A drug company is making pain killers and sleeping pills using two processes, process 1 and process 2. Process 1 produces 35 units of pain killers and 12 units of sleeping pills per hour. Process 2 produces 50 units of pain killers and 30 units of sleeping pills per hour. Process 1 requires 50 units of preliminary material while process 2 requires 60 units of preliminary material. The drug company has available 2000 units of preliminary material and must make at least 1200 units of pain killers and 1200 units of sleeping pills. How many of each process should be run to minimize the total time needed?

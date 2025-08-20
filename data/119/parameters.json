@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d86937d5a5829e9117743ee3c4e5f4f4fefc5e021b7988301e5e8cac794f27bf
-size 144
+{
+    "TimeThroatSwab": 5,
+    "TimeNasalSwab": 3,
+    "MinimumNasalSwabs": 30,
+    "ThroatToNasalRatio": 4,
+    "TotalOperationalTime": 20000
+}

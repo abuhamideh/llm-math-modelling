@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f7ff66b5b8ddc611a7b9b22d89f6472b582be208b29c03df376132bcbc1b69e
-size 295
+{
+    "NumContainers": 2,
+    "WaterAvailability": 500,
+    "PowderedPillAvailability": 700,
+    "WaterRequiredPerContainer": [
+        10,
+        20
+    ],
+    "PowderedPillRequiredPerContainer": [
+        15,
+        20
+    ],
+    "PasteProducedPerContainer": [
+        20,
+        30
+    ]
+}

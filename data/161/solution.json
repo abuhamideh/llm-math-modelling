@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:456027667e6510b70a5213bfc78304908fb02393f9e4ba0473de761917812ac6
-size 117
+{
+    "variables": {
+        "RegularBoatTrips": 20.0,
+        "SpeedBoatTrips": 20.0
+    },
+    "objective": 600.0
+}

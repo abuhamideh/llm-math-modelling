@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c1012d2a62f5f242f2c3bcab248c87167068fe0dce93f5c4391c5ddfb6e14299
-size 117
+{
+    "variables": {
+        "NumberLargeTrips": 7.0,
+        "NumberSmallTrips": 8.0
+    },
+    "objective": 260.0
+}

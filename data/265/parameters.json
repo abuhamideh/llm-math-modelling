@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:02726035d3ea1a62b3e4ce1aefd2baaff1f871afdaf54103948187e435b9306a
-size 148
+{
+    "TimeChemicalA": 30,
+    "TimeChemicalB": 45,
+    "MaxRatioAtoB": 0.3333333333333333,
+    "MinChemicalA": 300,
+    "MinTotalChemicals": 1500
+}

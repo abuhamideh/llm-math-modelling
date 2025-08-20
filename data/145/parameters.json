@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8fd60b82720c5a9062cc2474a7b3c0a7af80a93a5ab143a2f6ee963b5bb687f6
-size 172
+{
+    "OtterTricks": 3,
+    "OtterTreats": 3,
+    "DolphinTricks": 1,
+    "DolphinTreats": 5,
+    "MinDolphins": 10,
+    "MaxOtterPercentage": 0.3,
+    "TotalTreats": 200
+}

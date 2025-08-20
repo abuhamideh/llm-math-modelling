@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b80dcc71ccaa2135a211ab8470c53c29cccf5e1aed3997e3d1b179a86d31dc3
-size 123
+{
+    "variables": {
+        "BoxesProduced": [
+            25.0,
+            0.0
+        ]
+    },
+    "objective": 200.0
+}

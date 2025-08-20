@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:15a140130b071552e9b7b6beed78ecfb43b63c75180aa81aab3721590bbb1b65
-size 130
+{
+    "variables": {
+        "NumberOfDesks": 0.0,
+        "NumberOfDrawers": 133.33333333333334
+    },
+    "objective": 12000.0
+}

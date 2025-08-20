@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:136e0b662410daa4467af09da3e3eb25160c55cf65633597bcab568575fea439
-size 267
+{
+    "TotalLand": 300,
+    "NumWellTypes": 2,
+    "ProductionPerAcre": [
+        2,
+        5
+    ],
+    "PollutionPerAcre": [
+        10,
+        20
+    ],
+    "DrillBitsPerAcre": [
+        5,
+        10
+    ],
+    "TotalDrillBits": 2500,
+    "MaxPollution": 4500
+}

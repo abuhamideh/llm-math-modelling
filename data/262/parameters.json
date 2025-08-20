@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4dde6f9702b7ba7f4e990833c59d64cf7fd1578bfce72182607d41a0444f5e74
-size 395
+{
+    "PreparationTimeMedicationPatch": 3,
+    "PreparationTimeAntiBioticCream": 5,
+    "MaterialRequiredMedicationPatch": 5,
+    "MaterialRequiredAntiBioticCream": 6,
+    "MinRatioAntiBioticCreamToMedicationPatch": 2,
+    "MaxTotalBatches": 100,
+    "AvailableStaffTime": 400,
+    "AvailableMaterials": 530,
+    "TreatmentPerBatchMedicationPatch": 3,
+    "TreatmentPerBatchAntiBioticCream": 2
+}

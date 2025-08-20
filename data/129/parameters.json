@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5f558203a7c06522e4154f3c744d7eb8f0994d230aea05a0b64fd27c261121db
-size 135
+{
+    "TimeSpitTest": 10,
+    "TimeSwabTest": 15,
+    "MinRatioSpitToSwab": 2,
+    "MinSwabTests": 20,
+    "TotalOperatingTime": 8000
+}

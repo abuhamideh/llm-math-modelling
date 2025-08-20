@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1000d88af24c78ee7737e3120126037f028a8aef1ac8c2fb9db68970448bc08d
-size 126
+{
+    "variables": {
+        "NumberLargePizzas": 629.0,
+        "NumberMediumPizzas": 314.0
+    },
+    "objective": 10060.0
+}

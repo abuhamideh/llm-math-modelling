@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff5c63e64920d81800a36ec25ff65d809b8b2800d8cd637894380757a47fd5f1
-size 215
+{
+    "MinMathWorkbooks": 40,
+    "MinEnglishWorkbooks": 60,
+    "MaxMathWorkbooks": 140,
+    "MaxEnglishWorkbooks": 170,
+    "MinTotalWorkbooks": 200,
+    "ProfitMathWorkbook": 15,
+    "ProfitEnglishWorkbook": 17
+}

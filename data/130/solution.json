@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d19e015460b53f0286cc59c688d193ccdd7a156d35d1b2bce23cf91931cc41a9
-size 107
+{
+    "variables": {
+        "MinutesBeam1": 0.0,
+        "MinutesBeam2": 7.5
+    },
+    "objective": 1.5
+}

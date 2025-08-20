@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bca3a7456311988cb45c508717c1a20ffafee772646ea43066dda9777fbff015
-size 128
+{
+    "ProfitRegular": 5000,
+    "ProfitPremium": 8500,
+    "DemandRegular": 8,
+    "DemandPremium": 6,
+    "MaxCarsTotal": 12
+}

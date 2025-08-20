@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0ef80aa3ae39de88d4a6382630c23f1a4b1f3cd64fea3cd371c534cecbe9333
-size 115
+{
+    "variables": {
+        "NumberOfPills": 142.0,
+        "NumberOfShots": 429.0
+    },
+    "objective": 571.0
+}

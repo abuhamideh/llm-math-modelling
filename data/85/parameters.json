@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:628b0844df397f2edb1fb705c988efa9f7b13c9d43ba678cf72fe325a1d49f9d
-size 260
+{
+    "TotalLand": 100,
+    "TotalMachines": 100,
+    "MaxWastewater": 90,
+    "NumTechniques": 2,
+    "ProductionRate": [
+        3,
+        5
+    ],
+    "WastewaterRate": [
+        8,
+        17
+    ],
+    "MachinesRequired": [
+        10,
+        20
+    ]
+}

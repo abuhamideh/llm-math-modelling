@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc11f41c23a92dec7bce7ad3700755ac50dfb7e0eae745f77770d4bfa4623bd9
-size 184
+{
+    "NumPrinterTypes": 2,
+    "PrintingSpeed": [
+        30,
+        20
+    ],
+    "InkUsage": [
+        4,
+        3
+    ],
+    "MinPagesPerMinute": 200,
+    "MaxInkPerMinute": 35
+}

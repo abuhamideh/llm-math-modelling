@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8431f53bc62711ef422bfd5b990ddcce6ed76ef52ba9302462119e753052d5c9
-size 277
+{
+    "TotalPopsicleSticks": 600,
+    "PopsicleSticksPerBeamBridge": 30,
+    "PopsicleSticksPerTrussBridge": 50,
+    "TotalGlue": 100,
+    "GluePerBeamBridge": 5,
+    "GluePerTrussBridge": 8,
+    "MaxTrussBridges": 5,
+    "MassPerBeamBridge": 40,
+    "MassPerTrussBridge": 60
+}

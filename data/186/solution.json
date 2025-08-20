@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dba8b0c88963b559de63a1ee7cadada718b598ae4f8ec4ca4d82cb7a20665ad3
-size 115
+{
+    "variables": {
+        "NumberLargeShips": 4.0,
+        "NumberSmallShips": 5.0
+    },
+    "objective": 9.0
+}

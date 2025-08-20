@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:53476d1feb958c10cf34ce783f14e224ff466a972ef339ade84904296a0fa65c
-size 505
+An international goods exporter uses ships and planes to transport goods. A ship can take 40 containers worth of goods and uses 500 liters of fuel per trip. A plane can take 20 containers worth of goods and uses 300 liters of fuel per trip. The company needs to transport at least 500 containers worth of goods. In addition, there can be at most 10 plane trips made and a minimum of 50% of the trips made must be by ship. How many of each trip should be made to minimize the total amount of fuel consumed?

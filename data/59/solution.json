@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:72a1eb5704426301a4e4b08af1025f21504517db24308e57704896ac6e1f3ee4
-size 164
+{
+    "variables": {
+        "NumberOfBrownies": 2.0000000000000004,
+        "NumberOfLemonSquares": 3.0000000000000004
+    },
+    "objective": 26.000000000000007
+}

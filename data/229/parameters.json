@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9b20320aec9bb69a6ae6c4c82e1c80e2c09eaa7822d67caf5e128422323ce609
-size 109
+{
+    "LimousineCapacity": 12,
+    "BusCapacity": 18,
+    "MinPeople": 400,
+    "MinLimousineFraction": 0.7
+}

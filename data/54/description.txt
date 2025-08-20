@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3f9dcd7d1f5f923cdccc12e3738537d7d214e3c3b1268b8a52d7c494cc539c69
-size 504
+There are two specialized containers, a small and large one, that are used to make a pharmaceutical paste. The small container requires 10 units of water and 15 units of the powdered pill to make 20 units of the paste. The large container requires 20 units of water and 20 units of the powdered pill to make 30 units of the paste. The pharmacy has available 500 units of water and 700 units of the powdered pill. How many of each container should be used to maximize the amount of paste that can be made?

@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d4a886ed200d8150919f852139cf98bfb2544e62872d3c587f4a0b811b5b7cec
-size 277
+{
+    "NumDessertTypes": 2,
+    "NumIngredients": 2,
+    "ResourceUsage": [
+        [
+            4,
+            0
+        ],
+        [
+            0,
+            3
+        ]
+    ],
+    "AvailableIngredients": [
+        600,
+        550
+    ],
+    "MinMatchaProportion": 0.15
+}

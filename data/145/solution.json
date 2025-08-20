@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:11875771ff2511623c2f1b469b127059452b5453edc719aa22bb9e9f0307af44
-size 116
+{
+    "variables": {
+        "NumberOfDolphins": 32.0,
+        "NumberOfOtters": 13.0
+    },
+    "objective": 71.0
+}

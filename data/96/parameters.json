@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:278e62aab25b67b60dc468229f352357cb88826206cef5e06ef4c2ff841fd32b
-size 322
+{
+    "NumFactories": 2,
+    "NumProducts": 2,
+    "ProductionRate": [
+        [
+            20,
+            10
+        ],
+        [
+            15,
+            30
+        ]
+    ],
+    "ResourceRequirement": [
+        20,
+        30
+    ],
+    "TotalResource": 1000,
+    "MinProduction": [
+        700,
+        600
+    ]
+}

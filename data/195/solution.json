@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:10008f427646028c4d69801e59e86825051de260647510591dba24067e848d6b
-size 161
+{
+    "variables": {
+        "ServingsNoodles": 2.2857142857142856,
+        "ServingsProteinBars": 2.5142857142857142
+    },
+    "objective": 17.71428571428571
+}

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:444917a05e38105e84a0b44520adf7bd6850a8e6f3652749c28a4c8969332a63
-size 249
+{
+    "TotalMorphine": 3000,
+    "MorphinePerPainkiller": 10,
+    "MorphinePerSleepingPill": 6,
+    "DigestiveMedicinePerPainkiller": 3,
+    "DigestiveMedicinePerSleepingPill": 5,
+    "MinPainkillerPills": 50,
+    "MinSleepingPillsProportion": 0.7
+}

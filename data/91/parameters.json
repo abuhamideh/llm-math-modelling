@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7a2f31d5d0dc11ecf1a4c6ecf4b2594eb4fff3f3179a9ad717578c9a47a24fee
-size 224
+{
+    "ProteinAlpha": 30,
+    "SugarAlpha": 20,
+    "CaloriesAlpha": 350,
+    "ProteinOmega": 20,
+    "SugarOmega": 15,
+    "CaloriesOmega": 300,
+    "MinProtein": 100,
+    "MinCalories": 2000,
+    "MaxOmegaFraction": 0.35
+}

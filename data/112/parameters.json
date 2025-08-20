@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:018d3ac5f2af61bd01c9f8b4b74b27f3644d2201bd265111edd47ed1c00f430f
-size 306
+{
+    "MetalAvailable": 200,
+    "AcidAvailable": 300,
+    "MaxHeat": 50,
+    "NumBoxTypes": 2,
+    "MetalPerBoxType": [
+        3,
+        5
+    ],
+    "AcidPerBoxType": [
+        5,
+        8
+    ],
+    "FoamPerBoxType": [
+        8,
+        10
+    ],
+    "HeatPerBoxType": [
+        2,
+        3
+    ]
+}

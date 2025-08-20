@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:79a218b49710a778cf7b797f20c9d1b74e4ca8bd8e2c30044a62cf9d26c5d34f
-size 465
+A repairman fixes washing machines and freezers. Each washing machine takes 30 minutes of inspection and 90 minutes of fixing time. Each freezer takes 20 minutes of inspection and 125 minutes of fixing time. The repairman has 5000 minutes available for inspection and 20000 minutes available in his schedule. If each washing machine repaired earns him $250 and each freezer repaired earns his $375, how many of each appliance should he fix to maximize his earnings?

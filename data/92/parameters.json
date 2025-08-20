@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7a086832a00305818a68e1a244bd27d1d805423ab2367b111a288e0818d3551
-size 354
+{
+    "NumBeakers": 2,
+    "FlourAvailable": 150,
+    "SpecialLiquidAvailable": 100,
+    "MaxWasteAllowed": 30,
+    "FlourUsagePerBeaker": [
+        4,
+        6
+    ],
+    "SpecialLiquidUsagePerBeaker": [
+        6,
+        3
+    ],
+    "SlimeProducedPerBeaker": [
+        5,
+        3
+    ],
+    "WasteProducedPerBeaker": [
+        4,
+        2
+    ]
+}

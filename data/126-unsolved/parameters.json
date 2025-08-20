@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b80e1a6536746600b9dd287fc8c645b3afc2e5dbf6cdbe572fe3d1b6765f8d68
-size 324
+{
+    "NumLabs": 2,
+    "NumPillTypes": 2,
+    "ProductionRate": [
+        [
+            20,
+            30
+        ],
+        [
+            30,
+            40
+        ]
+    ],
+    "WorkerLaborPerLab": [
+        3,
+        5
+    ],
+    "TotalWorkerHours": 1500,
+    "MinRequiredPills": [
+        20000,
+        30000
+    ]
+}

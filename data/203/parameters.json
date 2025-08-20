@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fbaa6b57ebcc27caa9edbb89f8484926c164b2ec70922811c28e5093855294b4
-size 188
+{
+    "RegularHandbagProfit": 30,
+    "PremiumHandbagProfit": 180,
+    "RegularHandbagCost": 200,
+    "PremiumHandbagCost": 447,
+    "TotalBudget": 250000,
+    "MaxHandbagsPerMonth": 475
+}

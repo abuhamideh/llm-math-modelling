@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c12329dba0ff006989ec159b368bb321407a4033dba28fdeb59dc63e7f4677e2
-size 172
+{
+    "variables": {
+        "ProductionMix": {
+            "0": 94.28571428571428,
+            "1": 45.71428571428571
+        }
+    },
+    "objective": 511.4285714285714
+}

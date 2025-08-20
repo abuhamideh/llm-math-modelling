@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d5fac4b8e129dbd878c0e6741b4d2921ec6dce47d86ba24acbebafbb0ade77c
-size 280
+{
+    "TotalMedicinalIngredients": 1000,
+    "NumPillTypes": 2,
+    "RequiredMedicinal": [
+        3,
+        2
+    ],
+    "RequiredFiller": [
+        2,
+        1
+    ],
+    "MinimumPills": [
+        100,
+        0
+    ],
+    "MinimumProportion": [
+        0,
+        0.6
+    ]
+}

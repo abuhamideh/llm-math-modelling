@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:01815aa849438234ce408a6e2d0bab6d4b3318674d1d19be175f406363d39a4a
-size 413
+A hot dog company can build two types of butcher shops, a small shop and a large shop. A small shop can make 30 hot dogs per day and requires 2 workers. A large shop can make 70 hot dogs per day and requires 4 workers. The company must make at least 500 hot dogs per day but they only have available 30 workers. How many of each butcher shop should the company build to minimize the total number of butcher shops?

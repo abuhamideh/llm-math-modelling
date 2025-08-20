@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d17eded7e172a3d70364f302f2b55a616d3694c4a2ddcbbe6e46ffaca3eaf064
-size 367
+{
+    "NorthernFactoryAntiItchRate": 800,
+    "NorthernFactoryTopicalCreamRate": 700,
+    "WesternFactoryAntiItchRate": 650,
+    "WesternFactoryTopicalCreamRate": 750,
+    "NorthernFactoryPlasticUsage": 40,
+    "WesternFactoryPlasticUsage": 35,
+    "TotalPlasticAvailable": 60000,
+    "MinimumAntiItchProduction": 800000,
+    "MinimumTopicalCreamProduction": 700000
+}

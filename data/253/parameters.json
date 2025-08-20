@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4090e720419cdb615b7b1526447a5e1363be816911a72af16d87cee5e9cc9a00
-size 140
+{
+    "TimePerBloodTest": 30,
+    "TimePerEarTest": 5,
+    "BloodToEarTestRatio": 3,
+    "MinEarTests": 12,
+    "TotalOperatingTime": 7525
+}

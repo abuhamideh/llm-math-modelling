@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:78c971b174eddbe75510967eefde5a2d1a7a0b59ab791b3bdc83927cf0af4e01
-size 380
+{
+    "NumOilTypes": 2,
+    "NumSubstances": 3,
+    "ProfitPerContainer": [
+        10,
+        15
+    ],
+    "SubstanceAmountPerContainer": [
+        [
+            46,
+            13
+        ],
+        [
+            43,
+            4
+        ],
+        [
+            56,
+            45
+        ]
+    ],
+    "AvailableSubstances": [
+        1345,
+        346,
+        1643
+    ]
+}

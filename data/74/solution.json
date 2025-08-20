@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6d72129882b01e8606ddfa11ee12e36ddc6f322eda77c67d55fc0e3aae90754
-size 177
+{
+    "variables": {
+        "ConductExperiment": {
+            "0": 42.30769230769231,
+            "1": 134.6153846153846
+        }
+    },
+    "objective": 1684.6153846153848
+}

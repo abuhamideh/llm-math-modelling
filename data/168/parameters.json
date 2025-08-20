@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:26611f19acd345c6dff031dc607cec291d2f2bd70f2458f8251536a838fe3637
-size 103
+{
+    "BikeCapacity": 3,
+    "CarCapacity": 5,
+    "MaxCarPercentage": 0.4,
+    "NumberOfPeople": 500
+}

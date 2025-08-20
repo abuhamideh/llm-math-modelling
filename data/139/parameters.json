@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08b86c2e085459b2c8eed61ffa2a6a9e7052818a8e525962cdb2248d91f0293a
-size 132
+{
+    "VanCapacity": 50,
+    "TruckCapacity": 80,
+    "VanCost": 30,
+    "TruckCost": 50,
+    "MinBoxes": 1500,
+    "Budget": 1000
+}

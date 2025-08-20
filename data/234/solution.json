@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9dbfbcebfff4390fbf921d5adfff14e7da984a836dbfbd9f870e4cf3b0470d2e
-size 121
+{
+    "variables": {
+        "NumberOfChopSaws": 8.0,
+        "NumberOfSteelCutters": 64.0
+    },
+    "objective": 72.0
+}

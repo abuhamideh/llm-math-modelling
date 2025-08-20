@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dbffd87e53fe183e4b012ef4dd82180f164d93ee71e2bc02d3fbd1eeb21c0a78
-size 137
+{
+    "TimePerFertilizer": 0.5,
+    "TimePerSeeds": 1.5,
+    "MaxTotalUnits": 300,
+    "MinFertilizer": 50,
+    "MaxFertilizerRatio": 2
+}

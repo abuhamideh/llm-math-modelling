@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aa5d257ff91653456b776ec4fb1e21b103d37a0c677475e86fd2e9437ae3491e
-size 123
+{
+    "variables": {
+        "FirstDoseVaccines": 40.0,
+        "SecondDoseVaccines": 40.0
+    },
+    "objective": 3200.0
+}

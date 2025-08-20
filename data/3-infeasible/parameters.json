@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5ebc56103539faf1c1c816fe283c5a60947fc84ed0184a3bca0266f1f7789dbf
-size 232
+{
+    "AdvertisingBudget": 250000,
+    "CostRadioAd": 5000,
+    "CostSocialMediaAd": 9150,
+    "ExposureRadioAd": 60500,
+    "ExposureSocialMediaAd": 50000,
+    "MinRadioAds": 15,
+    "MaxRadioAds": 40,
+    "MinSocialMediaAds": 35
+}

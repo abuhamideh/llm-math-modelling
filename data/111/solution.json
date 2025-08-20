@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:75311edd11374acb94dbe0f0e057dff5e97ce932f3baa145680b5824480796eb
-size 112
+{
+    "variables": {
+        "NumRamenPacks": 0.0,
+        "NumFriesPacks": 10.0
+    },
+    "objective": 750.0
+}

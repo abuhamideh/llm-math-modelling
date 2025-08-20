@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76c035f7081f8999104357acf9789899f5b6d250c499b9a27b24955c96c58b52
-size 180
+{
+    "NumSawTypes": 2,
+    "PlanksCutPerSaw": [
+        50,
+        70
+    ],
+    "SawdustPerSaw": [
+        60,
+        100
+    ],
+    "MinPlanks": 1500,
+    "MaxSawdust": 2000
+}

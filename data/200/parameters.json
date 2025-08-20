@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:95b2a6b2d28cc3d1cc3beea09e32a16de06fdce14c0e989b52efd979267a065b
-size 341
+{
+    "NumOilTypes": 3,
+    "NumCompounds": 2,
+    "NetRevenue": [
+        550,
+        750,
+        950
+    ],
+    "CompoundRequirement": [
+        [
+            3,
+            6,
+            9
+        ],
+        [
+            3,
+            2,
+            3
+        ]
+    ],
+    "TotalCompoundAvailable": [
+        250,
+        150
+    ]
+}

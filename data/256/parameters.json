@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c949f4b8769705bff51f0e5a54a4133d3c52cf0dafc1cd47716fc1841c10fc8
-size 249
+{
+    "AcaiBerriesAvailable": 3500,
+    "BananaChocolateAvailable": 3200,
+    "AcaiBerriesPerAcaiSmoothie": 7,
+    "WaterPerAcaiSmoothie": 3,
+    "BananaChocolatePerBananaSmoothie": 6,
+    "WaterPerBananaSmoothie": 4,
+    "MinAcaiProportion": 0.35
+}

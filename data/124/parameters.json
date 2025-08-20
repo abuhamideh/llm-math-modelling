@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aeda7ba6946357d401f69c0b520bd595c8006ae691d5cddf3f5adeec0a93542e
-size 216
+{
+    "CaloriesCheesecake": 200,
+    "SugarCheesecake": 40,
+    "CaloriesCaramelCake": 250,
+    "SugarCaramelCake": 50,
+    "MinCheesecakeToCaramelRatio": 3,
+    "MinCaramelSlices": 3,
+    "MaxTotalCalories": 10000
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ab7072672a94a0f3f13da65c6ca1a81eaa5f5fb74b047d0254a73773f2e82be
-size 112
+{
+    "variables": {
+        "NumLargePlanes": 7.0,
+        "NumSmallPlanes": 9.0
+    },
+    "objective": 16.0
+}

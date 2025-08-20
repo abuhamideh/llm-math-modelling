@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ab9ba814bf89bf224fdf1b5f3e108151cb864c5e37ba1dc5f1c2efef4d67b721
-size 237
+{
+    "TotalLakeArea": 250,
+    "FishPerAcreNet": 8,
+    "BaitPerAcreNet": 4,
+    "PainPerAcreNet": 2,
+    "FishPerAcreLine": 5,
+    "BaitPerAcreLine": 3,
+    "PainPerAcreLine": 1,
+    "TotalAvailableBait": 800,
+    "MaxTotalPain": 350
+}

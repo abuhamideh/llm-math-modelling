@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a4c56daa06dc5e30fd2703009516ace6aaa46d0ad1c903a5d6956f2d3df9e685
-size 461
+A toy store hires seasonal and full-time volunteers to deliver gifts and gives them points for service. A seasonal volunteer can deliver 5 gifts and gets 2 points. A full-time volunteer can deliver 8 gifts and gets 5 points. The store can only give out 200 points. In addition, a maximum of 30% of the volunteers can be seasonal and at least 10 must be full-time. How many of each volunteer is needed to maximize the total number of gifts that can be delivered?

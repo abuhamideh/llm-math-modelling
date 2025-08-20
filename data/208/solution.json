@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:655f34efaa69088aedc42fd1cb73af3eedf37ae782049df5f4dc7db7b7617b8f
-size 126
+{
+    "variables": {
+        "RegularTacosProduced": 30.0,
+        "DeluxeTacosProduced": 40.0
+    },
+    "objective": 217.0
+}

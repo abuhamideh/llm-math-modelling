@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ff3e7fd2d6b9dc6550aa61cf9325f827cce014ae32a1a4f1c4ee29b3865d085b
-size 357
+A corn farmer sends his corn to the city by either tractor or car.  A tractor can carry 40 kg of corn while a car can carry 20 kg of corn. Since tractors are very slow, the number of cars used has to be at least twice the number of tractors used. If at least 500 kg of corn need to be sent to the city, minimize the total number of tractors and cars needed.

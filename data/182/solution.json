@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f0aa522596bf71db23b483fd09d768795927cbcd80d00e9653a72885942c476d
-size 173
+{
+    "variables": {
+        "HelicopterTrips": 24.0,
+        "BusTrips": 0.0,
+        "PatientsHelicopter": -0.0,
+        "PatientsBus": -0.0
+    },
+    "objective": 24.0
+}

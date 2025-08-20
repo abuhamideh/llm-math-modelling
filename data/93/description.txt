@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f5303bff973a0278b904d8c1aeebefc79364e76a3b125c49299e01a591c0f812
-size 455
+An dog hospital has 2000 units of tooth medication to make both small and large bones. A small bone requires 10 units of tooth medication and 12 units of meat. A large bone requires 15 units of tooth medication and 15 units of meat. Since most dogs prefer the small bones, at least 50% of the bones made must be small. In addition, the hospital must make at least 30 large bones. How many of each bone should be made to minimize the amount of meat needed?

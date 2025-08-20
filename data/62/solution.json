@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:47227522e27dd9cef640644aff5d9ff43be33c1aeaf2b7384b2d5ad26285482b
-size 112
+{
+    "variables": {
+        "SmallBranches": -0.0,
+        "LargeBranches": 12.0
+    },
+    "objective": 12.0
+}

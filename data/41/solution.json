@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:65a3ccd70e976a353ddbb3eb8d003fabc087df6a328ad8bbb610a5726cdf8f7b
-size 104
+{
+    "variables": {
+        "HighDrills": 7.0,
+        "LowDrills": 15.0
+    },
+    "objective": 22.0
+}

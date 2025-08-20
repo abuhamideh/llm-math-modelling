@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3abb51656ab6f3d8156df9168ab172f1a2312af3893e11d2ca44f3b044a83b6e
-size 176
+{
+    "TotalGold": 1000,
+    "GoldPerLong": 10,
+    "GoldPerShort": 7,
+    "MinShortToLongRatio": 5,
+    "MinLongCables": 10,
+    "ProfitPerLong": 12,
+    "ProfitPerShort": 5
+}

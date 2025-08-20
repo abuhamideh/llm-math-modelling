@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c20a5d20933f3131da1c7bfaba32c465b00557a22ece0fe85f015f1031cb832
-size 219
+{
+    "TotalMoney": 100000,
+    "NumBets": 3,
+    "LossProbabilities": [
+        0.5,
+        0.25,
+        0.1
+    ],
+    "Payouts": [
+        1.2,
+        0.5,
+        0.1
+    ],
+    "MaxAverageLossProbability": 0.3
+}

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:52d428ed59eb34fcd4136f8d7abc2a9214671ec2f77208294c057f81155308e7
-size 524
+A body builder buys pre prepared meals, a turkey dinner and a tuna salad sandwich. The turkey dinner contains 20 grams of protein, 30 grams of carbs, and 12 grams of fat. The tuna salad sandwich contains 18 grams of protein, 25 grams of carbs, and 8 grams of fat. The bodybuilder wants to get at least 150 grams of protein and 200 grams of carbs. In addition because the turkey dinner is expensive, at most 40% of the meals should be turkey dinner. How many of each meal should he eat if he wants to minimize his fat intake?

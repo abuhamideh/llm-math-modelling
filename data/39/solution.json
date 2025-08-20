@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ec47f60e75ef97d190e15f17af8cd7859d7eaddb13ec9a66bd43969006a14f5
-size 115
+{
+    "variables": {
+        "LandTurnips": 125.0,
+        "LandPumpkins": 375.0
+    },
+    "objective": 206250.0
+}

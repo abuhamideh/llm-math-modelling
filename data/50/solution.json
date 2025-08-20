@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6b48afcc6e11b8bb4a04082371825cfed92d0e4a5e79c365bc791cd2a46a77e8
-size 114
+{
+    "variables": {
+        "NumberSeasonal": 35.0,
+        "NumberPermanent": 9.0
+    },
+    "objective": 44.0
+}

@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ae1037335565d21f8e1250a31fe5f6f040ea11eb4253b327688781d0c6e3a510
-size 287
+{
+    "NumSandwichTypes": 2,
+    "NumIngredients": 2,
+    "Required": [
+        [
+            2,
+            3
+        ],
+        [
+            3,
+            5
+        ]
+    ],
+    "TotalAvailable": [
+        40,
+        70
+    ],
+    "ProfitPerSandwich": [
+        3,
+        4
+    ]
+}

@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d569751ebeda45b1f5a1b96e88ff6a6735597234e12d3b5118493cde044e668
-size 204
+{
+    "VegetableVitamins": 2,
+    "VegetableMinerals": 3,
+    "FruitVitamins": 4,
+    "FruitMinerals": 1,
+    "MinimumVitamins": 20,
+    "MinimumMinerals": 30,
+    "VegetableCost": 3,
+    "FruitCost": 5
+}

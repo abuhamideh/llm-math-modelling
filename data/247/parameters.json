@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8767151a8e4b649528f3814f50b57324444be8dc843a8b292e7ee97248f4936a
-size 294
+{
+    "NumCatalysts": 2,
+    "NumResources": 2,
+    "ResourceRequirement": [
+        [
+            15,
+            20
+        ],
+        [
+            25,
+            14
+        ]
+    ],
+    "ConversionRate": [
+        5,
+        4
+    ],
+    "TotalResource": [
+        450,
+        390
+    ]
+}

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c33209cc2fcfd73a61686b50c73cb24ce1337d1b28d54996bc0b6430655222d6
-size 226
+{
+    "RegularBoatCapacity": 20,
+    "RegularBoatGasConsumption": 10,
+    "SpeedBoatCapacity": 30,
+    "SpeedBoatGasConsumption": 20,
+    "MaxRegularBoatTrips": 20,
+    "MinFractionSpeedBoatTrips": 0.5,
+    "TotalMail": 1000
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d919f8547568b8b9e0506e512423254c90683aa2f2b93dd130942b642cfcc97d
-size 111
+{
+    "variables": {
+        "BatchesShots": 10.0,
+        "BatchesPills": 18.0
+    },
+    "objective": 226.0
+}

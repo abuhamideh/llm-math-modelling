@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b4d805805719e8ba2732219e0732b19ea6eedac0b1dcb19dd39394abaa7ee618
-size 120
+{
+    "variables": {
+        "NumberOfOranges": 15.0,
+        "NumberOfGrapefruits": 5.0
+    },
+    "objective": 105.0
+}

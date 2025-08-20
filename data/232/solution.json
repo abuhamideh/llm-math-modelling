@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4c1dbfea107013436ed736ee8010066a0140d365f83e09c699e0b2dc0e38fa47
-size 139
+{
+    "variables": {
+        "NumMealsPerFoodType": {
+            "0": 0.0,
+            "1": 12.0
+        }
+    },
+    "objective": 240.0
+}

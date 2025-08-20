@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7dabb99a82b4e65d7c49d9c0ba3c93d2293d052bacdff8937278e752aba5bc9c
-size 757
+A smoothie shop has a promotion for their two smoothies; an acai berry smoothie and a banana chocolate smoothie. It takes 7 units of acai berries and 3 units of water to make the acai berry smoothie. It takes 6 units of banana chocolate and 4 units of water to make the banana chocolate smoothie. Banana chocolate smoothies are more popular and thus the number of banana chocolate smoothies made must be more than the number of acai berry smoothies made. However, the acai berry smoothies have a loyal customer base, and at least 35% of the smoothies made must be acai berry smoothies. If the smoothie shop has 3500 units of acai berries and 3200 units of banana chocolate, to reduce the total amount of water, how many of each smoothie type should be made?

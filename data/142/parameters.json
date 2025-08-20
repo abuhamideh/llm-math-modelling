@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3da77b61746e9a528298db1908bb3af3c2d237273757371d4b651c7d8d97d65c
-size 177
+{
+    "BoatCapacity": 10,
+    "CanoeCapacity": 8,
+    "BoatTripTime": 20,
+    "CanoeTripTime": 40,
+    "MaxBoatTrips": 12,
+    "MinCanoeTripFraction": 0.6,
+    "MinDucks": 300
+}

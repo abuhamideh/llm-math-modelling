@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:653a668e6084670f756d75dd590237da0bdac012596cdabba50d93f00da01543
-size 111
+{
+    "GolfCartCapacity": 4,
+    "PullCartCapacity": 1,
+    "MaxGolfCartPercentage": 0.6,
+    "MinGuests": 80
+}

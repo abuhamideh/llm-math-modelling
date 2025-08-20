@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4821933a930a091d7f92853b4f1215faa9348f7f13e8ee018dce578c0ed22b34
-size 272
+{
+    "ProfitPerScooter": 200,
+    "ProfitPerBike": 300,
+    "DesignHoursPerScooter": 2,
+    "DesignHoursPerBike": 4,
+    "EngineeringHoursPerScooter": 3,
+    "EngineeringHoursPerBike": 5,
+    "TotalDesignHoursAvailable": 5000,
+    "TotalEngineeringHoursAvailable": 6000
+}

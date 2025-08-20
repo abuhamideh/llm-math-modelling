@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:48d44be9845d17022b4959232ed3da3bae33dc6c78400fe8184ced9dddcccd29
-size 109
+{
+    "variables": {
+        "FerryTrips": 6.0,
+        "LightRailTrips": 26.0
+    },
+    "objective": 32.0
+}

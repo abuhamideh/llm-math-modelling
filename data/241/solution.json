@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8fffb205e558e2f1bfabfc78c0bdf7585e12bb5ada204f3236899c8dcd8c6171
-size 106
+{
+    "variables": {
+        "FreightTrips": 28.0,
+        "AirTrips": 20.0
+    },
+    "objective": 48.0
+}

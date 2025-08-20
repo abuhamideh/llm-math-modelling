@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:254593d9c4ef5598779b76f1b9ce85117570c4b22a073e49b065051e4466b115
-size 181
+{
+    "PercentageCatPawMix1": 20,
+    "PercentageCatPawMix2": 35,
+    "AvailableCatPawKg": 20,
+    "AvailableGoldSharkKg": 50,
+    "ProfitPerKgMix1": 12,
+    "ProfitPerKgMix2": 15
+}

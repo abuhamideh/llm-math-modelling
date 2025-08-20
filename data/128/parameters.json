@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0ef5c6089f8d2e080d6161e30b9ccda774006ea49a588c414f2a269d4bd9c1ff
-size 251
+{
+    "ImportedMaterialPerDoseA": 30,
+    "MRNAPerDoseA": 50,
+    "ImportedMaterialPerDoseB": 40,
+    "MRNAPerDoseB": 30,
+    "MaxImportedMaterial": 300,
+    "MaxMRNA": 400,
+    "MaxDosesA": 5,
+    "TreatmentPerDoseA": 12,
+    "TreatmentPerDoseB": 8
+}

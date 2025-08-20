@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6216a3e353d8f1700ca401fa6a6b5f39141bd68fdd25d91c01018eef273efcf8
-size 496
+A concert organizer has to transport equipment using carts or trolleys. Carts can transport 5 kg/min of equipment and requires 2 workers. Trolleys can transport 7 kg/min of equipment and requires 4 workers. There must be at least 12 trolleys to be used. Additionally, only a maximum of 40% of the transportation can be using trolleys. The organizer has to deliver at a rate of 100 kg/min of equipment. How many of each transportation method should be used to minimize the total number of workers?

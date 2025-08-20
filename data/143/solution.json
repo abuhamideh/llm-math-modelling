@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5c9cdfdba9f56e3e4558111abb10d129ff63456dd922cc91849b569b6804e6df
-size 118
+{
+    "variables": {
+        "NumberOfOldVans": 26.0,
+        "NumberOfNewVans": 30.0
+    },
+    "objective": 2200.0
+}

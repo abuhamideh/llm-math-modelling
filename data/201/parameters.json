@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:12b282c4fd1bb1a3ebd60b536b3559c7c92d714f4015287c45a7f8479f2ee52b
-size 230
+{
+    "MinLaminateDemand": 15000,
+    "MinCarpetDemand": 5000,
+    "MinTotalShipping": 50000,
+    "MaxLaminateProduction": 40000,
+    "MaxCarpetProduction": 20000,
+    "LaminateProfitPerSqFt": 2.1,
+    "CarpetProfitPerSqFt": 3.3
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dcae059bd954eb9986242eb528442df0caa012ff1425416d152a332710e10f59
-size 125
+{
+    "variables": {
+        "AutoElectricJacksUsed": 8.0,
+        "GasPoweredJacksUsed": 11.0
+    },
+    "objective": 84.0
+}

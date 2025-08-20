@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fa9351923140a89a9e22f9a4c94a47bb55f1973c52f266c34fa49bcf379c4a8e
-size 119
+{
+    "variables": {
+        "NumberOfCanoes": 67.0,
+        "NumberOfDieselBoats": 22.0
+    },
+    "objective": 89.0
+}

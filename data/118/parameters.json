@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af13615e8835cffb561a21faccaae09891074b7ea1c5b393ed0cf7e0019e27f2
-size 336
+{
+    "NumProducts": 2,
+    "NumResources": 2,
+    "ResourceRequired": [
+        [
+            40,
+            60
+        ],
+        [
+            50,
+            40
+        ]
+    ],
+    "TotalAvailableResources": [
+        2000,
+        2100
+    ],
+    "MaxLiquidSanitizers": 30,
+    "CleaningPerUnit": [
+        30,
+        20
+    ]
+}

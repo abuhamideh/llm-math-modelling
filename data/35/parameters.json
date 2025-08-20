@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:acef2f38e56ac335e2d5135e47872e9572028a1b90958bd42cfb5debcbe772a8
-size 275
+{
+    "TotalFarmArea": 300,
+    "TotalWateringBudget": 10000,
+    "TotalAvailableLabor": 575,
+    "NumCrops": 2,
+    "LaborPerAcre": [
+        6,
+        3
+    ],
+    "WateringCostPerAcre": [
+        22,
+        25
+    ],
+    "ProfitPerAcre": [
+        56,
+        75
+    ]
+}

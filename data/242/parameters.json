@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c051509d1e076498cb40b3ad98dbeb5f35b34744682db66ff86fc11a3aaa1ace
-size 195
+{
+    "CapacityLargeUnit": 6,
+    "ParkingLargeUnit": 2,
+    "CapacitySmallUnit": 2,
+    "ParkingSmallUnit": 1,
+    "MinSmallUnits": 5,
+    "MinLargeUnitProportion": 0.75,
+    "TotalPeople": 80
+}

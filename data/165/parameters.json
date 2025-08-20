@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:688921441af952dc41d82d463c1cc8796b5480bbbab0a590b164557b7753cc8d
-size 203
+{
+    "PointsLimit": 200,
+    "MaxSeasonalPercentage": 0.3,
+    "MinFullTimeVolunteers": 10,
+    "GiftsPerSeasonal": 5,
+    "PointsPerSeasonal": 2,
+    "GiftsPerFullTime": 8,
+    "PointsPerFullTime": 5
+}

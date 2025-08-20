@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5ee488215d4d0a75d7e16dc1760deb9ab2a6f7f205be086cd4a47eec8642012
-size 259
+{
+    "VitaminCPerOrange": 5,
+    "VitaminAPerOrange": 3,
+    "SugarPerOrange": 5,
+    "VitaminCPerGrapefruit": 7,
+    "VitaminAPerGrapefruit": 5,
+    "SugarPerGrapefruit": 6,
+    "MinVitaminC": 80,
+    "MinVitaminA": 70,
+    "MinOrangeToGrapefruitRatio": 2
+}

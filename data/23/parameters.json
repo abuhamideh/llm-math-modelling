@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5148447a650366c91782a6f06277f8a1b6151f7d9e8f5361c577f8ee5f7ad464
-size 203
+{
+    "NumDeskTypes": 2,
+    "Price": [
+        300,
+        100
+    ],
+    "Space": [
+        10,
+        4
+    ],
+    "Seats": [
+        6,
+        2
+    ],
+    "MaxBudget": 2000,
+    "MaxSpace": 200
+}

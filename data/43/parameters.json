@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9a936f4cc46f456354dccb9b863b7272d1d5206f91adfa9a5f27f85e5e9fb0a4
-size 249
+{
+    "GoldRequiredProcessA": 3,
+    "WireRequiredProcessA": 2,
+    "CoinsPlatedProcessA": 5,
+    "GoldRequiredProcessB": 5,
+    "WireRequiredProcessB": 3,
+    "CoinsPlatedProcessB": 7,
+    "TotalGoldAvailable": 500,
+    "TotalWiresAvailable": 300
+}

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d0958208bd53560a9809ca60ffe352e06cf3354a7f7b733a093da4297747acb
-size 290
+{
+    "NumNutTypes": 2,
+    "CaloriePerServing": [
+        200,
+        300
+    ],
+    "ProteinPerServing": [
+        20,
+        25
+    ],
+    "FatPerServing": [
+        15,
+        12
+    ],
+    "ServingRatioMultiplier": 2,
+    "CalorieRequirement": 10000,
+    "ProteinRequirement": 800
+}

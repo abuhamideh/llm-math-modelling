@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8dfe7b17b4972f709caca8982ea7cfe8011d30947c8e026f77e2b90b70622403
-size 491
+In order to make carbon dioxide, wood is burned using two processes, with a catalyst and without a catalyst. The process with a catalyst requires 10 units of wood and 20 units of oxygen to make 15 units of carbon dioxide. The process without a catalyst requires 15 units of wood and 12 units of oxygen to make 18 units of carbon dioxide. There are 300 units of wood and 300 units of oxygen available. How many of each process should be used to maximize the amount of carbon dioxide produced?

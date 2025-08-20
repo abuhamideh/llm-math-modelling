@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17546f0700fa1dd14cf0537465e7b3d2a9e554bb7363d9f92ba72c38920e07dc
-size 138
+{
+    "variables": {
+        "FertilizerUnits": 50.0,
+        "SeedsUnits": 25.0,
+        "TotalTime": 37.5
+    },
+    "objective": 37.5
+}

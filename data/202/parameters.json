@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b824617c06ad3c64253521f2e1e1c35a785ad0d1204e9f64e3480b4777d6012d
-size 286
+{
+    "NumSupplements": 2,
+    "NumNutrients": 2,
+    "NutrientContent": [
+        [
+            5,
+            10
+        ],
+        [
+            4,
+            15
+        ]
+    ],
+    "MinRequirement": [
+        40,
+        50
+    ],
+    "CostPerPill": [
+        2,
+        3
+    ]
+}

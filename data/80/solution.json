@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97aeab6de9a8cb2756b5a1d145f5a96721f206084dcc668be908dcddf06b895d
-size 123
+{
+    "variables": {
+        "NumFullTimeWorkers": 25.0,
+        "NumPartTimeWorkers": 75.0
+    },
+    "objective": 100.0
+}

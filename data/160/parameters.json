@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ebdd903ecd2ea216b528510043566879bf60d720b54719bf0ca66f11bbb8db4f
-size 215
+{
+    "SmallSuitcaseCapacity": 50,
+    "LargeSuitcaseCapacity": 80,
+    "MinSmallToLargeRatio": 2,
+    "MaxSmallSuitcases": 70,
+    "MaxLargeSuitcases": 50,
+    "MinLargeSuitcases": 15,
+    "MaxTotalSuitcases": 70
+}

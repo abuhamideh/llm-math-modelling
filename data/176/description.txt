@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21329fc3f6d0a2ba5cbc5156644562ec2170cbe613979f7fe357acaa91d5dc11
-size 479
+A construction company in the tropics uses cows and elephants to carry bricks. A cow can carry 20 bricks on its back while an elephant can carry 50 bricks on its back. To avoid having elephants create too much traffic, the number of elephant cannot exceed the number of cows. In addition, there can be at most twice the number of cows as elephants. If the company needs to transport at least 1000 bricks, find the minimum number of animals, cows and elephants, that can be used..

@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0f35ee78730c1341cbbdb52f7ac1553896ffe63b823b90495016506a7a655bdb
-size 199
+{
+    "NumFactoryTypes": 2,
+    "ProductionRate": [
+        100,
+        200
+    ],
+    "ManagerRequirement": [
+        8,
+        20
+    ],
+    "AvailableManagers": 260,
+    "RequiredPhones": 3000
+}

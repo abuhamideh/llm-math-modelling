@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:753f811be337da8643a476d2d0cbfa673bd60560e9de0391752a691b7c2247c2
-size 230
+{
+    "WorkersPerSmallBin": 2,
+    "WorkersPerLargeBin": 5,
+    "CapacitySmallBin": 25,
+    "CapacityLargeBin": 60,
+    "TotalWorkers": 100,
+    "SmallBinToLargeBinRatio": 3,
+    "MinimumSmallBins": 10,
+    "MinimumLargeBins": 4
+}

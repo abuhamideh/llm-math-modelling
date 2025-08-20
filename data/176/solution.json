@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e2db304362ef1d1ee2cd3f63946ace99bf09f5948fa713b838c20cef07094bf8
-size 115
+{
+    "variables": {
+        "NumberOfCows": 15.0,
+        "NumberOfElephants": 14.0
+    },
+    "objective": 29.0
+}

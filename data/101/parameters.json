@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34377c0e358822974a9fd94e353c5b69729449c6522f6da1ee58dfc06fb1931f
-size 293
+{
+    "MinimumVitaminA": 80,
+    "MinimumVitaminC": 100,
+    "VitaminAPerCrabCake": 5,
+    "VitaminCPerCrabCake": 7,
+    "VitaminAPerLobsterRoll": 8,
+    "VitaminCPerLobsterRoll": 4,
+    "UnsaturatedFatPerCrabCake": 4,
+    "UnsaturatedFatPerLobsterRoll": 6,
+    "MaximumLobsterFraction": 0.4
+}

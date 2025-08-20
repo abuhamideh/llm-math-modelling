@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d53c2d09acc076c1c9c74c2c274784c2300ad60e7f937bacc0380a2e8a67f0c9
-size 111
+{
+    "variables": {
+        "NumberOfTrams": 8.0,
+        "NumberOfTrains": 3.0
+    },
+    "objective": 11.0
+}

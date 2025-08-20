@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:899cad0a42ffec70022b9c84bda3beb0748b03de4a44a9f4285bfbf1dbedc7d4
-size 117
+{
+    "variables": {
+        "NumberEscalators": 18.0,
+        "NumberElevators": 5.0
+    },
+    "objective": 100.0
+}

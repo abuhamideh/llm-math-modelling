@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55c385fe22b900736ca6a7b09665d803e05709c4f34f5035215650b818fcbd43
-size 124
+{
+    "variables": {
+        "AcresUsed": [
+            300.0,
+            200.0
+        ]
+    },
+    "objective": 17000.0
+}

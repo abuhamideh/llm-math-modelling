@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0ffd812bdfbbba62d3ba05e7bbf98b9df868f0061ed0c6282ca71ec1dba0fb8
-size 181
+{
+    "LargeBagCapacity": 25,
+    "LargeBagEnergy": 4,
+    "TinyBagCapacity": 6,
+    "TinyBagEnergy": 1.5,
+    "TotalEnergy": 110,
+    "RatioLargeToTiny": 2,
+    "MinTinyBags": 20
+}

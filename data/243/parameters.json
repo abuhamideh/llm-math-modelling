@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c7441e64e36e3fdac085801e242b7619d2c902ec438203ed97d3948a0f2b8bcd
-size 144
+{
+    "MasksPerSmallBox": 25,
+    "MasksPerLargeBox": 45,
+    "MinRatioSmallToLarge": 3,
+    "MinLargeBoxes": 5,
+    "TotalMasksRequired": 750
+}

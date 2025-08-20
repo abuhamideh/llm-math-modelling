@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fce0e71e4062b39b26f9e185fc61d81ad49d8b341d5c5fe1e36796fa4bd6de5a
-size 196
+{
+    "SubmarineCapacity": 100,
+    "SubmarineGasUsage": 30,
+    "BoatCapacity": 80,
+    "BoatGasUsage": 25,
+    "MaxSubmarineTrips": 6,
+    "MinBoatTripPercentage": 50,
+    "MailRequired": 1000
+}

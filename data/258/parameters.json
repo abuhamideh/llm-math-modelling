@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:941964692dee145038625c3e15305dd54ac3ec9dcd2958e878847a76de381eab
-size 206
+{
+    "PrepTimeInVivo": 30,
+    "ExecTimeInVivo": 60,
+    "RadiationInVivo": 2,
+    "PrepTimeExVivo": 45,
+    "ExecTimeExVivo": 30,
+    "RadiationExVivo": 3,
+    "MaxPrepTime": 400,
+    "MaxExecTime": 500
+}

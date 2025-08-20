@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9413db31a56727ba316a103ed348cac893d4f7ee4a24c4411b1f95e3fb45bfdf
-size 283
+{
+    "LowPowerCoolingCapacity": 12,
+    "LowPowerElectricityUsage": 150,
+    "HighPowerCoolingCapacity": 17,
+    "HighPowerElectricityUsage": 250,
+    "MaxLowPowerPercentage": 0.3,
+    "MinHighPowerModels": 7,
+    "TotalCoolingRequired": 250,
+    "TotalElectricityAvailable": 3400
+}

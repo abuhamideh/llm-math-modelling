@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6b79b3bb2de4cc24fb7af79fdb388d55242288e4449a6e63827a4b99535752b4
-size 159
+{
+    "CleansingChemicalTime": 4,
+    "OdorRemovingChemicalTime": 6,
+    "MinCleansingUnits": 100,
+    "MaxTotalUnits": 300,
+    "MaxCleansingToOdorRatio": 2
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd98c557d06671981017626eb3eac1ae8a33d1346b8f97a69e0c3836707de868
-size 130
+{
+    "variables": {
+        "NumberOfMangoBubbleTeas": 0.0,
+        "NumberOfLycheeBubbleTeas": 0.0
+    },
+    "objective": 0.0
+}

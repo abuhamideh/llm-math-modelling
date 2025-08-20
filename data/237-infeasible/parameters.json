@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2f546afc25b4c0040745b765a3371a28201d560aa3fc3afe5802242d87aa67cf
-size 132
+{
+    "SmallPacketCapacity": 1000,
+    "JugCapacity": 1250,
+    "MinJugRatio": 3,
+    "MinSmallPackets": 35,
+    "TotalJam": 65000
+}

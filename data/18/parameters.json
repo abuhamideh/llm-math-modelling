@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76e86aa60b9a29d24f9a537122e83878158764226382df943150d41feda53aed
-size 216
+{
+    "ProfitPhone": 120,
+    "ProfitLaptop": 40,
+    "SpacePhone": 1,
+    "SpaceLaptop": 4,
+    "TotalSpace": 400,
+    "MinLaptopPercentage": 0.8,
+    "CostPhone": 400,
+    "CostLaptop": 100,
+    "MaxBudget": 6000
+}

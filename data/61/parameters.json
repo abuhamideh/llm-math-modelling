@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d0e06ece90a90dcc3e1ee79a555a5b7bff26ea97c4c6ec61f128cb52c69e1e21
-size 266
+{
+    "WashRateTopLoading": 50,
+    "WashRateFrontLoading": 75,
+    "EnergyConsumptionTopLoading": 85,
+    "EnergyConsumptionFrontLoading": 100,
+    "MinItemsPerDay": 5000,
+    "MaxEnergyPerDay": 7000,
+    "MaxFractionTopLoading": 0.4,
+    "MinNumFrontLoading": 10
+}

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c928da23733aad999133758edc095f68e841d19d1c0503b69fef4e915b2608dc
-size 135
+{
+    "variables": {
+        "LandAllocated": {
+            "0": 0.0,
+            "1": 225.0
+        }
+    },
+    "objective": 1125.0
+}

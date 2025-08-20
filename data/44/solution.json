@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb99000cda6f8bfdf2fa95831b5edbc48497005c7f06ad1288d9a437610425cc
-size 132
+{
+    "variables": {
+        "NumberOfSaws": {
+            "0": 15.0,
+            "1": 11.0
+        }
+    },
+    "objective": 26.0
+}

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:00ffebdcae4290d4af07044fff9ffa4c0b8a143e2673019675cb28eef3b3c45f
-size 454
+A taco stand sells regular tacos and deluxe tacos with extra meat. The stand makes x1 regular tacos at a profit of $2.50 each and x2 deluxe tacos at a profit of $3.55 each (x1 and x2 are unknown variables both greater than or equal to 0). There is a demand for at most 50 regular tacos and at most 40 deluxe tacos. The stand only has enough supplies to sell at most 70 tacos of either type. How many of each taco should the stand make to maximize profit?

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:11f9cff137236c7bff7e14ed4abed687d74b84130b00a2075b065410741785e3
-size 302
+{
+    "ChocolateSpreadPerChocolateCrepe": 3,
+    "PeanutButterSpreadPerPeanutButterCrepe": 4,
+    "CrepeMixPerChocolateCrepe": 6,
+    "CrepeMixPerPeanutButterCrepe": 7,
+    "TotalAvailableChocolateSpread": 400,
+    "TotalAvailablePeanutButterSpread": 450,
+    "MinimumProportionChocolateCrepes": 0.25
+}

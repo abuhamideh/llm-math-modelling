@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b30ac9dd8e957d79bc890e20d75a755f06ef14a38c84644a414b6a95e000fc9
-size 171
+{
+    "CostFeedA": 100,
+    "CostFeedB": 80,
+    "ProteinFeedA": 10,
+    "ProteinFeedB": 7,
+    "FatFeedA": 8,
+    "FatFeedB": 15,
+    "MinProtein": 30,
+    "MinFat": 50
+}

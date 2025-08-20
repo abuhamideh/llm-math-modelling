@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9600e5f27ad41869c0260203e9b9c7ded85248e6cb8858d7e7005d232546d857
-size 343
+{
+    "NumFoods": 2,
+    "NumNutrients": 3,
+    "MinNutrient": [
+        2200,
+        50,
+        70
+    ],
+    "Price": [
+        6.5,
+        4
+    ],
+    "NutrientContent": [
+        [
+            800,
+            450
+        ],
+        [
+            19,
+            12
+        ],
+        [
+            20,
+            10
+        ]
+    ]
+}

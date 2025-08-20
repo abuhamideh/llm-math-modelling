@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7073d3fcc3148549a2d18faff941d5b26098acd61881a4a1b746b8490ea70272
-size 170
+{
+    "TotalInvestment": 600000,
+    "MaxInvestmentApartments": 200000,
+    "MinInvestmentRatio": 0.5,
+    "ReturnRateApartments": 0.1,
+    "ReturnRateTownhouses": 0.15
+}

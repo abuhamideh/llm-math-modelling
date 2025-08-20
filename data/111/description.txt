@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:093dd0f014d16726a03ed9e6435d1d281959f5d744a637e07443096e32f9fad4
-size 448
+A travelling salesman only eats ramen and fries. Each pack of ramen contains 400 calories, 20 grams of protein, and 100 mg of sodium. Each pack of fries contains 300 calories, 10 grams of protein, and 75 mg of sodium. Since fries are easier to eat while driving, at most 30% of his meals can be ramen. The salesman wants to ensure he eats at least 3000 calories and 80 grams of protein. How many of each should he eat to minimize his sodium intake?

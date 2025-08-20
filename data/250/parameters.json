@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d9c4446890357db98b606aa7143a686e7c4f9b3205683d0bd9004751b4ff7bf7
-size 332
+{
+    "NumMethods": 2,
+    "NumProducts": 2,
+    "ProductionRate": [
+        [
+            25,
+            45
+        ],
+        [
+            14,
+            25
+        ]
+    ],
+    "SpecialElementConsumption": [
+        60,
+        65
+    ],
+    "TotalSpecialElement": 3500,
+    "MinRequired": [
+        1400,
+        1000
+    ]
+}

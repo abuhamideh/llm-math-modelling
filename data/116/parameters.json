@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7773dc54aa25f469e0ebeee202cb3d41bdf94365c62eb6410e526b5f50e32b7f
-size 322
+{
+    "NumMachines": 2,
+    "NumProducts": 2,
+    "ProductionRate": [
+        [
+            30,
+            60
+        ],
+        [
+            45,
+            30
+        ]
+    ],
+    "WaterUsage": [
+        20,
+        15
+    ],
+    "TotalWaterAvailable": 1200,
+    "RequiredProduct": [
+        1300,
+        1500
+    ]
+}

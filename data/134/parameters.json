@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:14e216ab22575c455baa51d7ffeafc95e47d4ad547e11c80d8b86772abc88945
-size 183
+{
+    "ChlorineEffectivenessTime": 1,
+    "WaterSoftenerEffectivenessTime": 2,
+    "MaxChlorineToWaterSoftenerRatio": 0.5,
+    "MinChlorineUnits": 200,
+    "TotalChemicalUnits": 500
+}

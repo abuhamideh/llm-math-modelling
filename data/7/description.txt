@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:78f199f6597fc5a63363c44e4138b23c2c82cc443c647383f25e0d3d07f7d7c6
-size 345
+A chair produced by Elm Furniture yields a profit of $43, while every dresser yields a $52 profit. Each week, 17 gallons of stain and 11 lengths of oak wood are available. Each chair requires 1.4 gallons of stain and 2 lengths of oak wood, while each dresser requires 1.1 gallons of stain and 3 lengths of oak wood. Determine the maximum profit.

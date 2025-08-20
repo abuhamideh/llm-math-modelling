@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fce907ebcbae1f052ba0893082710d3625a315a0020fbffaca9a512c96fe892e
-size 222
+{
+    "NumTypes": 2,
+    "ElectricityUsage": [
+        5,
+        8
+    ],
+    "ChangesPerDecade": [
+        3,
+        4
+    ],
+    "MinPercentageFluorescence": 0.3,
+    "MinNumFixtures": 300,
+    "MaxElectricity": 2000
+}

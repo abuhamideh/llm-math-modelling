@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8cf92bae5f1cff763fecb30d20c104452d3f0bdeeae962403ca59ced4eb45665
-size 155
+{
+    "variables": {
+        "NumberOfWraps": 535.7142857142857,
+        "NumberOfPlatters": 178.57142857142856
+    },
+    "objective": 6785.714285714285
+}

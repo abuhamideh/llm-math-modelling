@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c9d7438ea83fcc5a2135a762635b1767eeb5815301c218cf33e50ce536777397
-size 174
+{
+    "TimePerAnxietyUnit": 3,
+    "TimePerAntidepressantUnit": 5,
+    "MinimumTotalUnits": 100,
+    "MinimumAnxietyUnits": 30,
+    "MaximumAnxietyToAntidepressantRatio": 2
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fb3b71dd5ea0ab6411514d1442064cb3662c42a1377ee9c69818463e497c2416
-size 111
+{
+    "variables": {
+        "AcaiSmoothies": 0.0,
+        "BananaSmoothies": 0.0
+    },
+    "objective": 0.0
+}

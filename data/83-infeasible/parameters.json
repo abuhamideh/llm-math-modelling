@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:82008e93a49a5906314b69cb44dd7b02b7238ca81235d467730c04e63504c04d
-size 188
+{
+    "HydrogenProductionA": 40,
+    "PollutantOutputA": 300,
+    "HydrogenProductionB": 30,
+    "PollutantOutputB": 200,
+    "MinHydrogenRequired": 1000,
+    "MaxPollutantAllowed": 3000
+}

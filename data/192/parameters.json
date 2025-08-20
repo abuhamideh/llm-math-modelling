@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4d61552b24fbc58ea4241522d96f31cc1f1929a52537dee36fdfc5c70ccfa93e
-size 230
+{
+    "AssemblyTimeDesk": 40,
+    "SandingTimeDesk": 20,
+    "AssemblyTimeDrawer": 30,
+    "SandingTimeDrawer": 10,
+    "TotalAssemblyTime": 4000,
+    "TotalSandingTime": 3500,
+    "ProfitPerDesk": 100,
+    "ProfitPerDrawer": 90
+}

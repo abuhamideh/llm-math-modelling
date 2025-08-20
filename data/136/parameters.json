@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:24af8e0923398804aa107bfe44793edc11a5907352c512b6b663eed1de6d483e
-size 324
+{
+    "AntiOxidantsPerBlueberryPack": 3,
+    "AntiOxidantsPerStrawberryPack": 1,
+    "MineralsPerBlueberryPack": 5,
+    "MineralsPerStrawberryPack": 7,
+    "SugarPerBlueberryPack": 5,
+    "SugarPerStrawberryPack": 7,
+    "MinimumAntiOxidants": 90,
+    "MinimumMinerals": 100,
+    "MinimumStrawberriesToBlueberriesRatio": 3
+}

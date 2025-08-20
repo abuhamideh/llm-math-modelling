@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:307e2ad61edc8300e6a5d5fdec51534abe7a48e852d7332bd536085650310076
-size 118
+{
+    "variables": {
+        "GlassJarsFilled": 20.0,
+        "PlasticJarsFilled": 50.0
+    },
+    "objective": 70.0
+}

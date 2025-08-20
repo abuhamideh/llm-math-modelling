@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4647bdc9a5ecfcf8dad7f7339d01c3c7e2b8cdc2d80f52df8dab47f1b15287f9
-size 292
+{
+    "CostPiTV": 1200,
+    "CostBetaVideo": 2000,
+    "CostGammaLive": 4000,
+    "AudiencePiTV": 2000,
+    "AudienceBetaVideo": 5000,
+    "AudienceGammaLive": 9000,
+    "MaxCommercialsBetaVideo": 8,
+    "TotalBudget": 20000,
+    "MaxGammaProportion": 0.333333,
+    "MinPiTVProportion": 0.2
+}

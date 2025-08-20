@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b850aa1d78dd9e827d7475e70c0fd4dfce94cf32525e1d200960269d3effc774
-size 621
+A toy store decides to deliver gifts using two shipping companies, a new one and an old one. The new company can deliver 50 gifts per trip while the old company can deliver 70 gifts per trip. The new company uses 30 liters of diesel per trip while the old company uses 40 liters of diesel per trip. The toy store needs to deliver at least 1000 gifts. There can be at most 15 trips made by the new company. In order to make sure that the old company does not go out of business, at least 40% of all trips must be made by the old company. How many trips should each company make to minimize the total amount of diesel used?

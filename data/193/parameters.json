@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b5a0e947004515e94bc964eb1c43996c80d0338e60122f2124e7bcdd4ed9b81
-size 301
+{
+    "NumMilkTeaTypes": 2,
+    "NumResources": 2,
+    "ResourceUsage": [
+        [
+            600,
+            525
+        ],
+        [
+            10,
+            5
+        ]
+    ],
+    "ProfitPerBottle": [
+        7.5,
+        5
+    ],
+    "AvailableResource": [
+        30000,
+        500
+    ]
+}

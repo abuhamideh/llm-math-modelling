@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b2b48de4a65f64bee387f100df1cc972c32eb0a1e231ab19424d768d442dd69b
-size 235
+{
+    "EmployeesPerSmallTeam": 3,
+    "AreaMowedSmallTeam": 50,
+    "EmployeesPerLargeTeam": 5,
+    "AreaMowedLargeTeam": 80,
+    "TotalEmployees": 150,
+    "RatioSmallToLargeTeams": 3,
+    "MinLargeTeams": 6,
+    "MinSmallTeams": 10
+}

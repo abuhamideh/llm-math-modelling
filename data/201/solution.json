@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:11a576dec16c9512069ae9df468c64e520762061713eb6128da8ec3e4850b7f6
-size 130
+{
+    "variables": {
+        "LaminateProduction": 40000.0,
+        "CarpetProduction": 20000.0
+    },
+    "objective": 150000.0
+}

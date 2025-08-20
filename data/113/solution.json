@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dbd29c325f579fefee324a6fb80d954bd1899f9c60ee410d879b05f96dfb420c
-size 141
+{
+    "variables": {
+        "PainkillerPills": 50.0,
+        "SleepingPills": 116.66666666666663
+    },
+    "objective": 733.3333333333331
+}

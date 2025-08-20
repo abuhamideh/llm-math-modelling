@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c9e246028a826593f9634ea3138428450e7e5bb44c4b793320abb51cc6507f86
-size 212
+{
+    "FlowersPerSmallBouquet": 5,
+    "FlowersPerLargeBouquet": 10,
+    "MaxSmallBouquets": 80,
+    "MaxLargeBouquets": 50,
+    "MaxTotalBouquets": 70,
+    "MinLargeBouquets": 20,
+    "MinSmallToLargeRatio": 2
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6748b773686b279714dcfbb3a800ede0ca71011ccb4e6821f578bdfb5f740c00
-size 137
+{
+    "variables": {
+        "NumBatchesAntiBioticCream": 62.0,
+        "NumBatchesMedicationPatch": 30.0
+    },
+    "objective": 214.0
+}

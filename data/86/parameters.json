@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:61117298e422f7c2e34553adb4fcf0dcd0b92f4b1fa763477ba04b404499403c
-size 232
+{
+    "CocoaPerMilkBar": 4,
+    "MilkPerMilkBar": 7,
+    "CocoaPerDarkBar": 6,
+    "MilkPerDarkBar": 3,
+    "TotalCocoa": 2000,
+    "TotalMilk": 1750,
+    "MinMilkToDarkRatio": 2,
+    "TimePerMilkBar": 15,
+    "TimePerDarkBar": 12
+}

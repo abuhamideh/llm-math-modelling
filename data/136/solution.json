@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:58e92877d5e8ef46db1e8d44425455d46ae4165a8f582159696578128533ebbb
-size 132
+{
+    "variables": {
+        "NumberOfBlueberryPacks": 15.0,
+        "NumberOfStrawberryPacks": 45.0
+    },
+    "objective": 390.0
+}

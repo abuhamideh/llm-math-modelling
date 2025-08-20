@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8aa002f9c9e8860897390304a728f08eef38dfc3c30c3e53add184286c629242
-size 425
+A drop-in clinic is performing a test either through the ear or blood. A blood test takes 30 minutes to perform while an ear test takes 5 minutes to perform. Since the blood test is more accurate, at least three times as many blood tests should be performed as ear tests. However, at least 12 ear tests must be administered. If the drop-in clinic operates for 7525 minutes, maximize the number of tests that can be performed.

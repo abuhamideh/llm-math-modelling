@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e4f95dc9bc9232b6db33d8e7b8b121483e377d0e3922c93299e98f85b12a1178
-size 147
+{
+    "GlassBottleCapacity": 500,
+    "PlasticBottleCapacity": 750,
+    "MinPlasticRatio": 3,
+    "MinGlassBottles": 20,
+    "TotalWater": 250000
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:18fb4ecc9a669f079d867b19fb71a9a8becaf74e7a3d052075d26f38a3c0bd96
-size 154
+{
+    "CustomersSmall": 50,
+    "TellersSmall": 10,
+    "CustomersLarge": 100,
+    "TellersLarge": 15,
+    "TotalTellers": 200,
+    "MinCustomers": 1200
+}

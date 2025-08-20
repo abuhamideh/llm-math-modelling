@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:023189c12e4a8b8f744a72048c5024a2f167a3557ed83908b06e84b5fdff7e53
-size 125
+{
+    "variables": {
+        "Machine1OperatingTime": 5.0,
+        "Machine2OperatingTime": 0.0
+    },
+    "objective": 1.5
+}

@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f90aee3377a98445b795faa6839b7887acf2ec5fd23b220d7c3924c3a74db59b
-size 348
+{
+    "NumDemonstrations": 2,
+    "MintUsed": [
+        10,
+        12
+    ],
+    "ActiveIngredientUsed": [
+        20,
+        15
+    ],
+    "FoamProduced": [
+        25,
+        18
+    ],
+    "BlackTarProduced": [
+        5,
+        3
+    ],
+    "TotalMintAvailable": 120,
+    "TotalActiveIngredientAvailable": 100,
+    "MaxBlackTarAllowed": 50
+}

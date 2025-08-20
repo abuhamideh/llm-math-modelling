@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0de11228786bedb3e23e75143f37074dba3bbb9874c689b7b48853337a377211
-size 177
+{
+    "variables": {
+        "NumberOfCarsUsed": 13.0,
+        "NumberOfTractorsUsed": 6.0,
+        "CornTractor": 240.0,
+        "CornCar": 260.0
+    },
+    "objective": 19.0
+}

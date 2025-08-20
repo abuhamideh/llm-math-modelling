@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5b5b8674ed4dbb803537d57d88a7d676e12ddee57e9bddcfe2fb54a71870e7d
-size 157
+{
+    "variables": {
+        "AnxietyUnits": 66.66666666666667,
+        "AntidepressantUnits": 33.333333333333336
+    },
+    "objective": 366.6666666666667
+}

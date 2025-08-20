@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5490ff2654fe0f9197f6f76483a42f59cc5d982ad46732b8930f0982115fdc60
-size 178
+{
+    "NumVehicleTypes": 2,
+    "Capacity": [
+        1000,
+        500
+    ],
+    "CostPerTrip": [
+        300,
+        100
+    ],
+    "MinPatties": 50000,
+    "Budget": 12500
+}

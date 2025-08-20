@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:10c46ce5d7f85920d9f95cf4404dbcbe1605547403462aa0f615dc87338cce95
-size 239
+{
+    "PeoplePerSmallTruck": 2,
+    "PeoplePerLargeTruck": 4,
+    "SnowCapacitySmallTruck": 30,
+    "SnowCapacityLargeTruck": 50,
+    "TotalPeople": 30,
+    "MinSmallTrucks": 10,
+    "MinLargeTrucks": 3,
+    "SmallTrucksPerLargeTruck": 2
+}

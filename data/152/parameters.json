@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c02c7df646236f4cf9341e4b67dee179922b93007a5326b74bd38c8a53cb3304
-size 172
+{
+    "TotalMonkeys": 300,
+    "BusCapacity": 20,
+    "BusTripTime": 30,
+    "CarCapacity": 6,
+    "CarTripTime": 15,
+    "MaxBusTrips": 10,
+    "MinCarTripFraction": 0.6
+}

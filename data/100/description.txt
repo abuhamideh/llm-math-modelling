@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e11d5e100f0af4999e9a2b9ed8136f7db3fb4a3cd2729d8cbde7c94f713f531
-size 591
+A patient with a sore throat can drink two syrups, syrup 1 and syrup 2 for treatment. Per serving, syrup 1 delivers 0.5 units of medicine to the throat and 0.4 units of medicine to the lungs. Per serving, syrup 2 delivers 0.2 units of medicine to the throat and 0.5 units of medicine to the lungs. Furthermore, syrup 1 contains 0.5 units of sugar while syrup 2 contains 0.3 units of sugar per serving. The patient can get at most 5 units of medicine for the throat and at least 4 units of medicine to the lungs. How many servings of each should the patient take to minimize his sugar intake?

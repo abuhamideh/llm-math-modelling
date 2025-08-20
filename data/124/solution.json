@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a78828a3b514b277dcdc8fe8183b9304d0d8ee1346395d599a249e424cf81c52
-size 120
+{
+    "variables": {
+        "CheesecakeSlices": 45.0,
+        "CaramelCakeSlices": 4.0
+    },
+    "objective": 2000.0
+}

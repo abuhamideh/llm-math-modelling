@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b07567f478cbbb93f9997bf44946ec283dd24c824a73716832392ee1cd8093bb
-size 594
+A researcher must perform two types of experiments, in-vivo and ex-vivo. In-vivo experiments requires 30 minutes to prepare and 60 minutes to execute. Ex-vivo experiments require 45 minutes to prepare and 30 minutes to execute. In addition, in-vivo experiments gives the researcher 2 units of radiation while ex-vivo experiments give the researcher 3 unites of radiation. At most 400 minutes can be used for preparation and 500 minutes for execution of the experiment. How many of each experiment should be scheduled by the researcher to minimize the total radiation received by the researcher?

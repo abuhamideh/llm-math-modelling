@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:07fa08161c474842163de75111578ac9cc2aa3da2ba5a6318dccae22b0557254
-size 140
+{
+    "variables": {
+        "NumberOfCartDeliveryServers": 54.0,
+        "NumberOfHandDeliveryServers": 3.0
+    },
+    "objective": 330.0
+}

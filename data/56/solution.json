@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:952feb366c78749babfa92edbaf2e800984ef0bba98b4cf291b8e80a1c82736f
-size 134
+{
+    "variables": {
+        "QuantityAlmondCroissant": -0.0,
+        "QuantityPistachioCroissant": -0.0
+    },
+    "objective": 0.0
+}

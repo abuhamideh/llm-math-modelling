@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08907b02acc5c4c30d03a24337d56094afd5f5c2ca7a78d2a0adcc424058635f
-size 423
+A clinic employs nurses and pharmacists to deliver shots to patients. A nurse works 5 hours per shift while a pharmacist works 7 hours per shift. Nurses are paid $250 per shift while pharmacists are paid $300 per shift. Currently, the clinic needs 200 hours of healthcare labor to meet needs. If the firm has a budget of $9000, how many of each healthcare worker should be scheduled to minimize the total number of workers?

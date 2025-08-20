@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:be87c856809e25ef1227bc96e7a75bbbd52c03604410c787b19897d8a24b2bc0
-size 122
+{
+    "variables": {
+        "AutomaticPatients": 500.0,
+        "ManualPatients": 1000.0
+    },
+    "objective": 1500.0
+}

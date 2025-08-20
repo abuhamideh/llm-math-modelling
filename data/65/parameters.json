@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e0745be6dc2d997161ff5de2a70f6e6afd404de3284a377e5046912b01075fe5
-size 241
+{
+    "TotalAcres": 500,
+    "TotalFuel": 9000,
+    "MaxWaste": 6000,
+    "NumMachineTypes": 2,
+    "PickRate": [
+        30,
+        40
+    ],
+    "WasteRate": [
+        10,
+        15
+    ],
+    "FuelRate": [
+        20,
+        15
+    ]
+}

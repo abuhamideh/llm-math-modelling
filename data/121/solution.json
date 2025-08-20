@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3211079aa79b7f0df7b83b3573933435c482b237d067076b447ac33da1dad525
-size 100
+{
+    "variables": {
+        "XBanana": 32.0,
+        "XMango": 15.0
+    },
+    "objective": 440.0
+}

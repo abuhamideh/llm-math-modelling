@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1fa289ea064756b6815b7fa3d1ac99bc4bae2fbdaa83fd0119a5748382f060ac
-size 276
+{
+    "NumProcesses": 2,
+    "WoodRequiredPerProcess": [
+        10,
+        15
+    ],
+    "OxygenRequiredPerProcess": [
+        20,
+        12
+    ],
+    "CO2ProducedPerProcess": [
+        15,
+        18
+    ],
+    "TotalWoodAvailable": 300,
+    "TotalOxygenAvailable": 300
+}

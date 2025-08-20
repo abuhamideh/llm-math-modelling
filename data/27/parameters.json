@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70f597b0fcab7025f8209602285bb8f3b05f8764bf99797eb20ebf4d150e2e05
-size 212
+{
+    "MaxSpendingBudget": 20000,
+    "CostMango": 5,
+    "CostGuava": 3,
+    "ProfitMango": 3,
+    "ProfitGuava": 4,
+    "MinMangosSold": 100,
+    "MaxMangosSold": 150,
+    "MaxGuavaToMangoRatio": 0.3333333333
+}

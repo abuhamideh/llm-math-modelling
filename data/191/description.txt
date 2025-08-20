@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3abae13720d29130cf6c0a280282403532dd2415e76085581b70a1b86476329b
-size 439
+An appliance company sells and installs refrigerators and stoves. Each refrigerator takes 60 minutes of mover time and 20 minutes of setup time. Each stove takes 45 minutes of mover time and 25 minutes of setup time. The company has available 20000 minutes of mover time and 13000 minutes of setup time. If the profit per refrigerator is $400 and the profit per stove is $260, how many of each should they sell in order to maximize profit?

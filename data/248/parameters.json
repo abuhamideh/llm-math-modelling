@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:386ec46e0acedeadedc0bd23401e00269f075bbe75e310f67164e6688614b5a5
-size 208
+{
+    "MaxWater": 1500,
+    "MaxPollution": 1350,
+    "MetalExtraction": [
+        5,
+        9
+    ],
+    "WaterUsage": [
+        8,
+        6
+    ],
+    "PollutionProduction": [
+        3,
+        5
+    ]
+}

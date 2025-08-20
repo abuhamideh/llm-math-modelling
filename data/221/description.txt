@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:681708f23106d23254d086289ae376be1bae7802254c5148a667d646ffa5128c
-size 567
+An amusement park has two types of games: throwing and climbing games. Throwing games attract 15 customers every hour and climbing games attract 8 customers every hour. Throwing games costs the amusement park $2 in prizes per hour whereas climbing games cost $3 in prizes per hour. Since throwing games yield the most profit, there must be at least twice as many throwing games as climbing games. However, at least 5 games must be climbing. If the amusement park can have at most $100 in prizes every hour, maximize the total number of customers attracted every hour.

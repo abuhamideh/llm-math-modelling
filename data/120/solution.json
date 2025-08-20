@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a1d0f54a0862e5abbaa737c336c2d073d30afe3db167efc820626c50e82b675c
-size 154
+{
+    "variables": {
+        "NumDoses": {
+            "0": 0.0,
+            "1": 11.428571428571429
+        }
+    },
+    "objective": 6.857142857142857
+}

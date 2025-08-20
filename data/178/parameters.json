@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:532509c5b92f2198fb1dd5520a7cb13ac28dbe1be884e9d41e3ef110534ac983
-size 164
+{
+    "EmployeesPerTaxiRide": 2,
+    "EmployeesPerCompanyCarRide": 3,
+    "MaxCompanyCarRidePercentage": 60,
+    "MinCompanyCarRides": 30,
+    "MinEmployees": 500
+}

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee2df2ae36da1c09a1f99a1a5213e2f7223455e64bc5b704743bfb7759c63bb0
-size 177
+{
+    "ShipCapacity": 40,
+    "ShipFuel": 500,
+    "PlaneCapacity": 20,
+    "PlaneFuel": 300,
+    "MinContainers": 500,
+    "MaxPlaneTrips": 10,
+    "MinShipTripFraction": 0.5
+}

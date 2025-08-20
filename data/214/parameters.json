@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e37fae93bce8dd6f2800bb9c878cd1e867f3911ad06aca2d7a08343e8d7a7445
-size 142
+{
+    "TimeTemperatureCheck": 2,
+    "TimeBloodTest": 10,
+    "MinBloodTests": 45,
+    "TempToBloodRatio": 5,
+    "TotalStaffMinutes": 22000
+}

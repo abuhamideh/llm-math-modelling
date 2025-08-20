@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ba0784948af2cd100c358b95ae9121d7bbee80ba624680f17e2d7cf9be5d63a6
-size 191
+{
+    "HelicopterCapacity": 5,
+    "HelicopterTripTime": 1,
+    "BusCapacity": 8,
+    "BusTripTime": 3,
+    "MinPatients": 120,
+    "MinHelicopterTripPercentage": 0.3,
+    "MaxBusTrips": 10
+}

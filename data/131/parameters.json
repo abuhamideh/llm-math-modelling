@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d729f442e19cab265a344b36a791437af3f799db8a2c76e6e787af3937a4c9ad
-size 207
+{
+    "ProteinTurkey": 20,
+    "CarbsTurkey": 30,
+    "FatTurkey": 12,
+    "ProteinTuna": 18,
+    "CarbsTuna": 25,
+    "FatTuna": 8,
+    "MinProtein": 150,
+    "MinCarbs": 200,
+    "MaxTurkeyFraction": 0.4
+}

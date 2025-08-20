@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f513cff9329fde46340bfaf37e2156402400db82bf441bbad6f43faff1f77f5
-size 197
+{
+    "CostPlushToy": 3,
+    "CostDoll": 2,
+    "InventoryBudget": 700,
+    "ProfitPlushToy": 4,
+    "ProfitDoll": 2,
+    "MinPlushSold": 90,
+    "MaxPlushSold": 190,
+    "MaxDollToPlushRatio": 2
+}

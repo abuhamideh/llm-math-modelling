@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d0e649d04c3bdf3c6c9f492cc8baa73817840b774ea7b785630756ddd3a592b4
-size 119
+{
+    "variables": {
+        "NumberMediumCarts": 18.0,
+        "NumberLargeCarts": 6.0
+    },
+    "objective": 960.0
+}

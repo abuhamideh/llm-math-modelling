@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0869b67543368c768de450d8ff9332be6b6185b4c79e5c98b783cfd56bb0bf1d
-size 114
+{
+    "variables": {
+        "NumberOfCarts": 4.0,
+        "NumberOfTrolleys": 12.0
+    },
+    "objective": 56.0
+}

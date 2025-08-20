@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc179753bbbd59d301411a0b050892a2dfbab16d5da1572943fe13ff44c5cdc1
-size 154
+{
+    "WidePipeCapacity": 25,
+    "NarrowPipeCapacity": 15,
+    "MaxWideToNarrowRatio": 0.333333,
+    "MinTransportRequired": 900,
+    "MinWidePipes": 5
+}

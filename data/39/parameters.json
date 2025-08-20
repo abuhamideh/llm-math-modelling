@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c3913144552544700df07e4f575a42c857a4e20afec81751dd30981e7c2e864d
-size 274
+{
+    "TotalLand": 500,
+    "WateringTimeTurnips": 50,
+    "PesticideCostTurnips": 80,
+    "WateringTimePumpkins": 90,
+    "PesticideCostPumpkins": 50,
+    "TotalWateringTime": 40000,
+    "TotalPesticideBudget": 34000,
+    "RevenueTurnips": 300,
+    "RevenuePumpkins": 450
+}

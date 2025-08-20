@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4656f7d4d0f90120d84f8f5bc062edf469b0f71ae8fd8b554a753975bdd4f5a2
-size 134
+{
+    "variables": {
+        "NumberOfInVivoExperiments": 0.0,
+        "NumberOfExVivoExperiments": -0.0
+    },
+    "objective": 0.0
+}

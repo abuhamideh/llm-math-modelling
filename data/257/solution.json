@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b08d57277f0f4fc54add1e4aabad597f7299dd5912a95ed6151e14ef88c3a2d6
-size 273
+{
+    "variables": {
+        "ProductionQuantity": {
+            "0": 107.14285714285714,
+            "1": 321.42857142857144
+        },
+        "ProductionQuantityBasketballs": 150.0,
+        "ProductionQuantityFootballs": 50.0
+    },
+    "objective": 428.57142857142856
+}

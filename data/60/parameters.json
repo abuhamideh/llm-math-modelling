@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a5f4737d31b1e6d82f8b8972f9b559a3465a5162f88b64c92a4b4a3f5a66604
-size 177
+{
+    "NurseShiftHours": 5,
+    "PharmacistShiftHours": 7,
+    "NurseCostPerShift": 250,
+    "PharmacistCostPerShift": 300,
+    "TotalLaborHours": 200,
+    "TotalBudget": 9000
+}

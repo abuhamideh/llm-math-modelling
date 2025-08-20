@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:439882de7fae4ab492bee3e8dbb5b413f533d9b6d6a399f4b48b0fd13591f6b1
-size 129
+{
+    "variables": {
+        "RegularModelsProduced": 6.0,
+        "PremiumModelsProduced": 6.0
+    },
+    "objective": 81000.0
+}

@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b1df59bb3c40057991fac900ccafa389e0341f068f00d17956f0156d98e55d52
-size 110
+{
+    "variables": {
+        "BalloonRides": 1.0,
+        "GondolaLifts": 11.0
+    },
+    "objective": 175.0
+}

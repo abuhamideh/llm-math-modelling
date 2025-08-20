@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99e206e38724055a3b389df58c347a8b9baafc9b37893d4f1ccd631ba3aa19f5
-size 266
+{
+    "Machine1HeartDeliveryRate": 0.5,
+    "Machine1BrainDeliveryRate": 0.8,
+    "Machine1WasteRate": 0.3,
+    "Machine2HeartDeliveryRate": 0.3,
+    "Machine2BrainDeliveryRate": 1,
+    "Machine2WasteRate": 0.5,
+    "HeartMedicineMax": 8,
+    "BrainMedicineMin": 4
+}

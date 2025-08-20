@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:146fbf58a2bac1add41236e4d6d95f2150af57f6ed80f0a155fb4d8528c5c081
-size 226
+{
+    "BreadPerLight": 2,
+    "CheesePerLight": 3,
+    "BreadPerHeavy": 3,
+    "CheesePerHeavy": 5,
+    "MinHeavyToLightRatio": 3,
+    "TotalBread": 300,
+    "TotalCheese": 500,
+    "TimePerLight": 10,
+    "TimePerHeavy": 15
+}

@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:63909175cdb48faf8994cb7c50f1f77b835ca21035902b9de0f4994cdbc0e674
-size 407
+An aquarium does shows using otters and dolphins. An otter will do 3 tricks at a time and requires 3 treats to do so. A dolphin will do 1 trick at a time and requires 5 treats to do so. Since dolphins are more popular, at least 10 dolphins must be used and at most 30% of the performers can be otters. If the aquarium only has 200 treats available, maximize the total number of tricks that can be preformed.

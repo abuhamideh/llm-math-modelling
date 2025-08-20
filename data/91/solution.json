@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4d9a718ea4dfe36c5cfc64097d5a9290af49626e14e26f34e26a86fd0f7889bb
-size 153
+{
+    "variables": {
+        "QuantityAlpha": 3.909774436090226,
+        "QuantityOmega": 2.1052631578947367
+    },
+    "objective": 109.77443609022556
+}

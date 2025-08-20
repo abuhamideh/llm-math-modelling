@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:861da5b6bebf2852638b692fae7b8a117e32d4df8e53def9b44009e739b25a73
-size 388
+A man  only eats vegetable and fruits. A serving of vegetables contains 2 units of vitamins and 3 units of minerals. A serving of fruit contains 4 units of vitamins and 1 unit of minerals. He wants to eat at least 20 units of vitamins and 30 units of minerals. If vegetables cost $3 per serving and fruits cost $5 per serving, how many servings of each should he eat to minimize his cost?

@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0953c992cb858993441ee273b48b13374482715d4259fbee6da23a6bb2ef9f74
-size 299
+{
+    "NumExperiments": 2,
+    "NumResources": 2,
+    "ResourceAvailable": [
+        800,
+        750
+    ],
+    "ResourceRequired": [
+        [
+            3,
+            5
+        ],
+        [
+            5,
+            4
+        ]
+    ],
+    "ElectricityProduced": [
+        8,
+        10
+    ]
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d61ebb97a238e2d2df54948d4e987a9ff66e206c5d0cbdf6fbf3261ec1d9b7e3
-size 186
+{
+    "TotalAntibiotics": 35000,
+    "AntibioticsFirstDose": 30,
+    "GelatineFirstDose": 20,
+    "AntibioticsSecondDose": 65,
+    "GelatineSecondDose": 60,
+    "MinimumSecondDose": 40
+}

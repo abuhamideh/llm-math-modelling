@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b8234bf755b7566e38e28027187415565434899af954c550bbec247b9048f900
-size 152
+{
+    "PreventionPillCost": 15,
+    "TreatmentPillCost": 25,
+    "PreventionToTreatmentRatio": 2,
+    "MinimumTreatmentPills": 50,
+    "Budget": 10000
+}

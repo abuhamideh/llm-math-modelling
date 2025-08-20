@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b72cdf4dc51c6f2e9660d717a83fcc18b28df1824f9871191b75b8ee2295ecce
-size 137
+{
+    "variables": {
+        "QuantityTurkey": 0.0,
+        "QuantityTuna": 8.333333333333334
+    },
+    "objective": 66.66666666666667
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d720073bec84cfb4440085f9d874652f13922ed7cce15cbfb5a230b69b288787
-size 150
+{
+    "CarCapacity": 4,
+    "CarPollution": 10,
+    "BusCapacity": 20,
+    "BusPollution": 30,
+    "MinEmployeesToTransport": 300,
+    "MaxBuses": 4
+}

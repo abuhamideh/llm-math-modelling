@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fae61cc3bf55e39b45e7951e318b0ec336a805fd92f7235457fc80b22d430f49
-size 273
+{
+    "TotalAcres": 200,
+    "NumMachines": 2,
+    "FuelAvailable": 300,
+    "MethaneLimit": 800,
+    "HayProcessedPerAcre": [
+        10,
+        8
+    ],
+    "MethaneProducedPerAcre": [
+        5,
+        3
+    ],
+    "FuelRequiredPerAcre": [
+        2,
+        1
+    ]
+}

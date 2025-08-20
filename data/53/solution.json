@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08e0009db7520a87ab1c2a9b41dcc614ebad083aad8a0e4fb18fe6a7c123624c
-size 115
+{
+    "variables": {
+        "MachinesCounterTop": 0.0,
+        "MachinesFridge": 7.0
+    },
+    "objective": 7.0
+}

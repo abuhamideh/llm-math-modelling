@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:66673d83ba5a2b339e230de9df56b32bb098262a968c8ae43729c6f2b120b765
-size 170
+{
+    "VanCapacity": 6,
+    "VanPollution": 7,
+    "MinibusCapacity": 10,
+    "MinibusPollution": 10,
+    "MinimumNumberOfKids": 150,
+    "MaximumNumberOfMinibuses": 10
+}

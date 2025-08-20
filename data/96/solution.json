@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:66d503b763d9df1c69089a58e15377e77c6bb720b74260548f999da319badc70
-size 171
+{
+    "variables": {
+        "OperationalLevel": {
+            "0": 27.5,
+            "1": 15.0
+        },
+        "MaxOperatingHours": 27.5
+    },
+    "objective": 27.5
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a18213c6f85916b7946e6f7be655c7fbcefe5c8c4f72835fe992aa80353c7ebd
-size 168
+{
+    "ProteinPerSmoothie": 2,
+    "CaloriesPerSmoothie": 300,
+    "ProteinPerBar": 7,
+    "CaloriesPerBar": 250,
+    "BarToSmoothieRatio": 2,
+    "MaxCalories": 2000
+}

@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c9d936105bc5bbf7f0ecf95a264fba387c1913c85805ae9a2062c047fc2bd6e
-size 189
+{
+    "NumFireFighterTypes": 2,
+    "HoursPerShift": [
+        10,
+        6
+    ],
+    "CostPerShift": [
+        300,
+        100
+    ],
+    "TotalHoursRequired": 300,
+    "Budget": 7000
+}

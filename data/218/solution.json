@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f92393dbbab3a3c834a555b8617d2468bd0445d4392a655981a7b2b93f8a080a
-size 119
+{
+    "variables": {
+        "LooselySeatedLift": 5.0,
+        "DenselySeatedLift": 20.0
+    },
+    "objective": 25.0
+}

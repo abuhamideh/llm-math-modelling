@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1a4ec88eb2e8ffa277b1ed1b47d75c860b908f28cfc73b154b8cfd42221f54f8
-size 472
+A printing company sells math workbooks and English workbooks. To meet demand, they must make at least 40 math workbooks and at least 60 English workbooks. However, they can make at most 140 math workbooks and at most 170 English workbooks. The company has a contract with a school to send at least 200 workbooks of either type. If the profit per math workbook is $15 and the profit per English workbook is $17, how many of each should the company make to maximize profit?

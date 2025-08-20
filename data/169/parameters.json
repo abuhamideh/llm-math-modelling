@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1ce47786f6cf209881b65c8c10b58b655d388f82257fd805dc6a70667d4e0f5e
-size 169
+{
+    "TiresPerPlaneTrip": 10,
+    "CostPerPlaneTrip": 1000,
+    "TiresPerTruckTrip": 6,
+    "CostPerTruckTrip": 700,
+    "MinTires": 200,
+    "AvailableBudget": 22000
+}

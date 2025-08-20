@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:61471ef82c3edb15138b7920cba0981ab79c1f065be0e312c42255275b2041a6
-size 224
+{
+    "ManufacturingCostPremiumDesktop": 2000,
+    "ManufacturingCostRegularDesktop": 1000,
+    "ProfitPremiumDesktop": 500,
+    "ProfitRegularDesktop": 300,
+    "MaxDesktopSales": 200,
+    "MaxManufacturingBudget": 300000
+}

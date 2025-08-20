@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f30b39a659b9895a86d519377a51caaf19059d77c561936be4b0976be4327f18
-size 106
+{
+    "variables": {
+        "WidePipes": 12.0,
+        "NarrowPipes": 40.0
+    },
+    "objective": 52.0
+}

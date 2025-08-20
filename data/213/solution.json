@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:05664e98c0137d5f57d28931e8b437b2f8b7ee29c2bf95164531e177e3f23c1d
-size 144
+{
+    "variables": {
+        "NumberPiTV": 3.0,
+        "NumberBetaVideo": 8.0,
+        "NumberGammaLive": 0.0
+    },
+    "objective": 46000.0
+}

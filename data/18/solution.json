@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fcb52182fdcb5158e578b69cc7b41b581d3d1a8f36ab4c7b200a93aef03f1f4b
-size 116
+{
+    "variables": {
+        "NumberOfPhones": 0.0,
+        "NumberOfLaptops": 60.0
+    },
+    "objective": 2400.0
+}

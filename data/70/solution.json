@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:25fd18feaf772200fb5f1ede15d84ce67848700f30406388402812624924ebe7
-size 133
+{
+    "variables": {
+        "ShiftsPerType": {
+            "0": 15.0,
+            "1": 25.0
+        }
+    },
+    "objective": 40.0
+}

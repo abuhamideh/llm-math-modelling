@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc337ac7f61bc016cbc41d5e082b300110145ff667f67919afbf84524e0552be
-size 219
+{
+    "variables": {
+        "NumberCalciumPills": 2000000000.0,
+        "NumberVitaminDPills": 40.0,
+        "TotalTime": 0.0,
+        "IsCalciumTaken": 1.0,
+        "IsVitaminDTaken": 1.0
+    },
+    "objective": 0.0
+}

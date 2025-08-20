@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b075cfb630ff64a4b465bb971e4155a782257a329d11a395e562dc7fbc9d9000
-size 112
+{
+    "variables": {
+        "NumberOfVans": 14.0,
+        "NumberOfTrucks": 14.0
+    },
+    "objective": 14.0
+}

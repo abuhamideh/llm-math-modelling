@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:435fabff6cdae431631f1d4be334dc6e1fea70f22957e7e32945c3db9de90401
-size 305
+{
+    "NumVehicleTypes": 2,
+    "TransportCapacity": [
+        30,
+        70
+    ],
+    "Pollution": [
+        4,
+        15
+    ],
+    "Earnings": [
+        100,
+        225
+    ],
+    "MaxVehiclePercentage": [
+        0.25,
+        1.0
+    ],
+    "PollutionCap": 200,
+    "MinTransportCapacity": 1200
+}

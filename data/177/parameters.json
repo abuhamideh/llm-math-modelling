@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c324dda970f079b4be532a3a33807a74fba8631ff04d4a8546a0c117db54a310
-size 124
+{
+    "FerryTripCapacity": 20,
+    "LightRailTripCapacity": 15,
+    "MinLightRailMultiplier": 4,
+    "MinBoxesToSend": 500
+}

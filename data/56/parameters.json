@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a18376c01b479bd410038fe9886f272382f1989499d2c749c72c8acf1ad0c005
-size 322
+{
+    "AvailableButter": 600,
+    "AvailableFlour": 800,
+    "ButterPerAlmondCroissant": 5,
+    "FlourPerAlmondCroissant": 8,
+    "ButterPerPistachioCroissant": 3,
+    "FlourPerPistachioCroissant": 6,
+    "MinAlmondToPistachioRatio": 3,
+    "ProductionTimeAlmondCroissant": 12,
+    "ProductionTimePistachioCroissant": 10
+}

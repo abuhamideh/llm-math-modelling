@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8eadda340590818c17f7b87972d5ef0a4bc53a20baf16a3c2c918e2e90359695
-size 106
+{
+    "variables": {
+        "NumPigeons": 158.0,
+        "NumOwls": 105.0
+    },
+    "objective": 841.0
+}

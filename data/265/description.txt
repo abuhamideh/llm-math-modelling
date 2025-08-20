@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a873193a3a2ecf9e453c7a83637c4616ba5d6a93f17a6032a99c41b874ce268
-size 541
+Both chemical A and chemical B need to be added to a mixer for making bread. One unit of chemical A takes 30 seconds to be effective while one unit of chemical B takes 45 seconds to be effective. Because chemical A can be dangerous, there has to be at most a third as much chemical A as chemical B in the mixer. If there has to be at least 300 units of chemical A in the mixer and at least 1500 units of total chemicals in the mixer, how many units of each should be added to minimize the total time it takes for the mixed bread to be ready?

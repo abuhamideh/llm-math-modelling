@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eaaef68f4debaa8c19602b7569457a8aadd7f10be604d55ba5a23b9a8a25585e
-size 235
+{
+    "FreightCapacityPerTrip": 5,
+    "AirCapacityPerTrip": 3,
+    "FreightCostPerTrip": 300,
+    "AirCostPerTrip": 550,
+    "MinimumTotalTons": 200,
+    "Budget": 20000,
+    "MinimumAirProportion": 0.3,
+    "MinimumFreightTrips": 5
+}

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8cf6782790b68a5f0a027adbe9dd4bd4682c3553b33cfafad353ea344bf49348
-size 229
+{
+    "CalorieBanana": 80,
+    "CalorieMango": 100,
+    "PotassiumBanana": 20,
+    "PotassiumMango": 15,
+    "SugarBanana": 10,
+    "SugarMango": 8,
+    "MinCalories": 4000,
+    "MinPotassium": 150,
+    "MaxMangoFraction": 0.33
+}

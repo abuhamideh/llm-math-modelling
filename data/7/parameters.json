@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ef05f4b657cdf1aa365c37c630060c2871b1e2ec9368f6a398fb928ecf704f1
-size 206
+{
+    "ProfitPerChair": 43,
+    "ProfitPerDresser": 52,
+    "AvailableStain": 17,
+    "AvailableOak": 11,
+    "StainPerChair": 1.4,
+    "StainPerDresser": 1.1,
+    "OakPerChair": 2,
+    "OakPerDresser": 3
+}

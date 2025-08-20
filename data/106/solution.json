@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3291d00d87322d975b938934715fef81d7a4f502d8a32c8ac4092148bc97455d
-size 196
+{
+  "variables": {
+    "ProductionMatrix": {
+      "(0, 0)": 1200.0,
+      "(0, 1)": 1000.0,
+      "(1, 0)": 0.0,
+      "(1, 1)": 0.0
+    },
+    "MaxOperatingHours": 0.0
+  },
+  "objective": 0.0
+}

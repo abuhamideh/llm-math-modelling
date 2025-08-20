@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3f3b4fc24673c1ae2d739b909b200da06b149c961bf51fb3f47b6d61bc110008
-size 116
+{
+    "variables": {
+        "NumThroatSwab": 3479.0,
+        "NumNasalSwab": 868.0
+    },
+    "objective": 4347.0
+}

@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4d3b91d4c41d540059977ef8eb3c760285ddc1f73f7f06a0c038cc62842a4de9
-size 281
+{
+    "NumPillTypes": 2,
+    "NumMedicineTypes": 2,
+    "AmountPerPill": [
+        [
+            3,
+            6
+        ],
+        [
+            5,
+            1
+        ]
+    ],
+    "PillCost": [
+        4,
+        5
+    ],
+    "RequiredAmount": [
+        40,
+        50
+    ]
+}

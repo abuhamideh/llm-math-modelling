@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d4700de7b5123be720be3f361134407f4f1105025c86d778391594b7685e9199
-size 110
+{
+    "variables": {
+        "ServingsRice": 0.0,
+        "ServingsKebab": 11.0
+    },
+    "objective": 22.0
+}

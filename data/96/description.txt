@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59b375ffc7acb6729520aeeafd6207bc35611881e717124bfed3dd690d18b050
-size 611
+A drug company is making allergy pills and fever reducing pills in two factories, factory 1 and factory 2. Factory 1 produces 20 allergy pills and 15 fever reducing pills per hour. Factory 2 produces 10 allergy pills and 30 fever reducing pills per hour.  Factory 1 is much more efficient and only requires 20 units of a rare compound while factory 2 requires 30 units of a rare compound. The company only has available 1000 units of the rare compound. If the company must make at least 700 allergy pills and 600 fever reducing pills, how many hours should each factory be run to minimize the total time needed?

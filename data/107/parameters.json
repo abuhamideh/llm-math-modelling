@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1947a8e6aa3bc8e9bd87464f1595ff3709e1c97a6c8ba800956df8e413af25b4
-size 261
+{
+    "FatPerBurger": 10,
+    "FatPerPizzaSlice": 8,
+    "CaloriesPerBurger": 300,
+    "CaloriesPerPizzaSlice": 250,
+    "CholesterolPerBurger": 12,
+    "CholesterolPerPizzaSlice": 10,
+    "MinFat": 130,
+    "MinCalories": 3000,
+    "MinPizzaToBurgerRatio": 2
+}

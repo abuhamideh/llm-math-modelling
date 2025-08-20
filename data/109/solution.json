@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7bea572ba3d839103d260e386c867db07779cd0e0c8e337d6c7f7c8816ea15b4
-size 125
+{
+    "variables": {
+        "ElectronicReadings": 3750.0,
+        "RegularReadings": 1875.0
+    },
+    "objective": 5625.0
+}

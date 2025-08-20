@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:769b0f62616e99468ef5dbd872c18ffd0f8b45411afb6f98421cc98c78a87bc2
-size 129
+{
+    "variables": {
+        "ProductionHardwood": 50000.0,
+        "ProductionVinyl": 30000.0
+    },
+    "objective": 215000.0
+}
